@@ -5,6 +5,7 @@
 - Group Members: Akhil Bandi, Eric Button, Adrian Wood, Sung Ahn
 - Topic: Visualization of average state’s contribution to U.S. GDP and Energy consumption
 - Data Source: https://www.kaggle.com/datasets/lislejoem/us_energy_census_gdp_10-14?resource=download 
+- Size of Dataset: 75.53 KB
 - Objective/Overview: The purpose of this project is to build an interactive web application by deploying visualization tools with front-end programs including HTML, CSS, and Bootstrap hosted in Github with an index page powered by JavaScript where database and flask server is built and developed behind the scenes. 
 ## Brief Overview of our plan to approach the project:
 1.	Source and identify the dataset
