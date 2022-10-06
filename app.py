@@ -26,12 +26,20 @@ energy_consumption = Base.classes.energy_consumption
 
 app = Flask(__name__)
 
+
+# Flask Routes
 @app.route("/")
 def home():
-    return "Testing"
+    return (
+        f"Welcome to the Energy consumption visualization<br/>"
+        f"Available Routes:<br/>"
+        f"/data<br/>"
+    )
 
 @app.route("/data")
 def data():
+    """Return a list of all energy_consumption names"""
+    # Create our session (link) from Python to the DB
     session = Session(engine)
 
     results = session.query(energy_consumption.year,
