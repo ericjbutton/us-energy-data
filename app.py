@@ -39,7 +39,7 @@ def IndexRoute():
 
 
 @app.route("/energy_consumption")
-def EnergyConsumptionRoute():
+def energy1Route():
     ''' Runs when the user clicks the link for the other page.
         Note that the html file must be located in a folder called templates. '''
 
@@ -48,15 +48,15 @@ def EnergyConsumptionRoute():
     # we want. The name has to match the parameter used in other.html. We could 
     # pass in lists, dictionaries, or other values as well. And we don't have 
     # to pass in anything at all (which would make a lot more sense in this case).
-    webpage = render_template("energy_consumption.html", title_we_want="Shirley")
+    webpage = render_template("energy1.html", title_we_want="Energy_Consumption")
     return webpage
 
 @app.route("/energy_consumption_sectors")
-def EnergyConsumptionSectorsRoute():
+def energy2Route():
     ''' Runs when the user clicks the link for the other page.
         Note that the html file must be located in a folder called templates. '''
 
-    webpage = render_template("energy_consumption_sectors.html", title_we_want="Shirley")
+    webpage = render_template("energy2.html", title_we_want="Energy_Consumption_sectors")
     return webpage
 
 
