@@ -3,6 +3,7 @@ import numpy as np
 
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
+from flask import render_template
 from sqlalchemy import create_engine
 
 from flask import Flask, jsonify
@@ -27,12 +28,84 @@ energy_consumption = Base.classes.energy_consumption
 app = Flask(__name__)
 
 
-# Flask Routes
+#  Flask Routes-define the various application routes.
 @app.route("/")
+def IndexRoute():
+    ''' Runs when the browser loads the index route (i.e., the "home page"). 
+        Note that the html file must be located in a folder called templates. '''
+
+    webpage = render_template("index.html")
+    return webpage
+
+
+@app.route("/energy_consumption")
+def EnergyConsumptionRoute():
+    ''' Runs when the user clicks the link for the other page.
+        Note that the html file must be located in a folder called templates. '''
+
+    # Note that this call to render template passes in the title parameter. 
+    # That title parameter is a 'Shirley' variable that could be called anything 
+    # we want. The name has to match the parameter used in other.html. We could 
+    # pass in lists, dictionaries, or other values as well. And we don't have 
+    # to pass in anything at all (which would make a lot more sense in this case).
+    webpage = render_template("energy_consumption.html", title_we_want="Shirley")
+    return webpage
+
+@app.route("/energy_consumption_sectors")
+def EnergyConsumptionSectorsRoute():
+    ''' Runs when the user clicks the link for the other page.
+        Note that the html file must be located in a folder called templates. '''
+
+    webpage = render_template("energy_consumption_sectors.html", title_we_want="Shirley")
+    return webpage
+
+
+# @app.route("/map")
+# def MapRoute():
+#     ''' Loads the '''
+
+#     webpage = render_template("map.html")
+#     return webpage
+
+# @app.route("/map1")
+# def MapRoute():
+#     ''' Loads the  '''
+
+#     webpage = render_template("map1.html")
+#     return webpage
+
+
+@app.route("/readjsonfile/<filename>")
+def ReadJsonFileRoute(filename):    
+    ''' Opens a JSON or GeoJSON file and then returns
+        its contents to the client. The filename is specified
+        as a parameter. '''
+
+    # Note that we have to assemble the complete filepath. We do this on the 
+    # server because the client has no knowledge of the server's file structure.
+    filepath = f"static/data/data.js"
+
+    # Add some simple error handling to help if the user entered an invalid
+    # filename. 
+    try: 
+        with open(filepath) as f:    
+            json_data = json.load(f)
+    except:
+        json_data = {'Error': f'{filename} not found on server!'}
+
+    print('Returning data from a file')
+
+    return jsonify(json_data)
+
+
+@app.route("/home")
 def home():
     return (
         f"Welcome to the Energy consumption visualization<br/>"
         f"Available Routes:<br/>"
+        f"/home<br/>"
+        f"/energy_consumption<br/>"
+        f"/energy_consumption_sectors<br/>"
         f"/data<br/>"
     )
 
