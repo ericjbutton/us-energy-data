@@ -1,6 +1,7 @@
 #Import Dependencies
 import numpy as np
 
+import pandas as pd
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from flask import render_template
@@ -59,6 +60,13 @@ def energy2Route():
     webpage = render_template("energy2.html", title_we_want="Energy_Consumption_sectors")
     return webpage
 
+#Returns a list of all years
+@app.route("/year")
+def years():
+    prices = pd.read_sql_query("SELECT * from 'energy_consumption'",con = engine)
+    years = prices["index"]
+    years_list = years.tolist()
+    return jsonify(years_list)
 
 # @app.route("/map")
 # def MapRoute():
