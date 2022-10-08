@@ -1,35 +1,34 @@
 <!DOCTYPE html>
-
 <html lang="en-us">
-<head>
-    <meta charset="UTF-8">
-<!-- Include the Leaflet CSS file -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
-integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
-crossorigin=""/>
-  
- <!-- Import the Leaflet JS file AFTER the Leaflet CSS file -->
-<script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
-integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg="
-crossorigin=""></script>        
+    <head>
+     <meta charset="UTF-8">
+        <!-- <title>NYC Boroughs</title> -->
 
-<!-- Import the D3 JavaScript file -->
-<script src="https://d3js.org/d3.v7.min.js"></script>
- 
-<!-- Our CSS -->
-<!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
- 
-</head>
+     <!-- Leaflet CSS -->   
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+     crossorigin="" />
 
+     <!-- Leaflet JavaScript code -->
+     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+      integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+     crossorigin=""></script>
+
+     <!-- D3 library -->
+     <script src="https://d3js.org/d3.v7.min.js"></script>
+
+       <!-- Our CSS -->
+       <!-- for testing with live server , need to update file path-->
+     <link rel="stylesheet" type="text/css" href="../static/css/style.css">  
+
+    </head>
     <body>
-        <!-- The empty DIV that will hold our map -->
-        <div id="map1">  <!--empty-->  </div>
 
-        <!-- API key, which is needed because this demo uses Mapbox as its tile layer
-        <script type="text/javascript" src="static/js/config.js"></script>
+        <!-- map div -->
+     <div id="map"></div>
 
-        <!-- Our own JavaScript file, which must be imported AFTER any API keys, if you use them  -->
-        <!-- <script type="text/javascript" src="static/js/logic.js"></script> --> -->
+       <!-- JavaScript file -->
+     <script type="text/javascript" src="../static/js/logic.js"></script>
 
-    </body>
+     </body>
 </html>
