@@ -10,10 +10,9 @@ coal_consumption bigint,
 electricity_consumption bigint,
 fossil_fuel_consumption bigint,
 natural_gas_consumption bigint,
-latitude DECIMAL(8,6),
-longitude DECIMAL(9,6),
+latitude float,
+longitude float,
 primary key(year, state)
 );
 
 select * from energy_consumption
-
