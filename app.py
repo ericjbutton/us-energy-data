@@ -135,13 +135,14 @@ def data():
     energy_consumption.electricity_consumption,
     energy_consumption.fossil_fuel_consumption,
     energy_consumption.natural_gas_consumption,
-    energy_consumption.coordinates
+    energy_consumption.latitude,
+    energy_consumption.longitude
     ).all()
 
     session.close()
 
     all_data = []
-    for year, state, total_energy,gdp,biomass_consumption,coal_consumption,electricity_consumption,fossil_fuel_consumption, natural_gas_consumption, coordinates in results:
+    for year, state, total_energy,gdp,biomass_consumption,coal_consumption,electricity_consumption,fossil_fuel_consumption, natural_gas_consumption, latitude, longitude in results:
         data_dict = {}
         data_dict["year"] = year
         data_dict["state"] = state
@@ -152,7 +153,7 @@ def data():
         data_dict["electricity_consumption"] = electricity_consumption
         data_dict["fossil_fuel_consumption"] = fossil_fuel_consumption
         data_dict["natural_gas_consumption"] = natural_gas_consumption
-        data_dict["coordinates"] = coordinates
+        data_dict["coordinates"] = longitude, latitude
         all_data.append(data_dict)
 
 

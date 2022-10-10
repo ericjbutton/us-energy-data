@@ -10,7 +10,8 @@ coal_consumption bigint,
 electricity_consumption bigint,
 fossil_fuel_consumption bigint,
 natural_gas_consumption bigint,
-coordinates varchar,
+latitude DECIMAL(8,6),
+longitude DECIMAL(9,6),
 primary key(year, state)
 );
 
