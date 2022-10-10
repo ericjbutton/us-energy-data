@@ -94,7 +94,7 @@ def ReadJsonFileRoute(filename):
 
     # Note that we have to assemble the complete filepath. We do this on the 
     # server because the client has no knowledge of the server's file structure.
-    filepath = f"static/data/data.js"
+    filepath = f"static/data/{filename}"
 
     # Add some simple error handling to help if the user entered an invalid
     # filename. 
