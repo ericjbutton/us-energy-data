@@ -66,8 +66,8 @@ def energy2Route():
 #Returns a list of all years
 @app.route("/year")
 def years():
-    prices = pd.read_sql_query("SELECT * from 'energy_consumption'",con = engine)
-    years = prices["index"]
+    energy = pd.read_sql_query("SELECT * from 'energy_consumption'",con = engine)
+    years = energy["year"]
     years_list = years.tolist()
     return jsonify(years_list)
 
@@ -118,6 +118,8 @@ def home():
         f"/energy_consumption<br/>"
         f"/energy_consumption_sectors<br/>"
         f"/data<br/>"
+        f"/map<br/>"
+        f"/map1<br/>"
     )
 
 @app.route("/data")
