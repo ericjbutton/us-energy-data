@@ -22,41 +22,23 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 function markerSize(totalenergy){
     return Math.sqrt(totalenergy) * 50;
 }
-// console.log(url[0].coordinates[0]);
+
 
 d3.json(url).then(function(data){
+
+
   for (let i = 0; i < data.length; i++) {
     L.circle(data[i].coordinates, {
-      fillOpacity: 0.75,
-      color: "red",
-      fillColor: "purple",
+      fillOpacity: 0.25,
+      color: "grey",
+      fillColor: "orange",
       // Setting our circle's radius to equal the output of our markerSize() function:
       
       radius: markerSize(data[i].total_energy)
-    }).bindPopup(`<h1>${data[i].year}</h1> <hr> <h3>Total Energy: ${data[i].total_energy}</h3>`).addTo(myMap);
+    }).bindPopup(`<h1>${data[i].year}</h1> <hr> <h2>${data[i].state}</h2> <hr> <h3>Total Energy: ${data[i].total_energy}</h3>`).addTo(myMap);
   }
 
-  console.log(data)
+  // console.log(data)
 })
-// Loop through the cities array, and create one marker for each city object.
-// for (let i = 0; i < url.length; i++) {
-//     L.circle(url[i].coordinates, {
-//       fillOpacity: 0.75,
-//       color: "white",
-//       fillColor: "purple",
-//       // Setting our circle's radius to equal the output of our markerSize() function:
-//       radius: 1
-//       // radius: markerSize(url[i].total_energy)
-//     }).addTo(myMap);
-//     // .bindPopup(`<h1>${url[i].year}</h1> <hr> <h3>Population: ${url[i].total_energy}</h3>`).addTo(myMap);
-//   }
-  
-  
 
-// Get the GeoJSON data and plot it on the map
-// d3.json(url).then(function(data) {
-
-    
-//     L.geoJson(data).addTo(myMap);
-//   });
 
