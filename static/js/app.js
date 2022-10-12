@@ -2,6 +2,7 @@
 console.log("hello");
 
 let mydata = "/static/data/data.json"
+let mydata2 = "/static/data/data2.json"
 console.log("hello2");
 
 function InitDashboard() { 
@@ -30,7 +31,7 @@ function InitDashboard() {
         piechart(initialId); 
 
         // Show the metadata for the selected sample id 
-        Metadata(initialId); 
+        GDPdata(initialId); 
 
         // Show the heatmap
         // heatmap(initialId); 
@@ -90,7 +91,7 @@ function Bargraph(years)
     }); 
 }
 
-  // Display the default plot
+  // Display the piechart plot
 function piechart(years)  {
     console.log(`Piechart(${years})`); 
     d3.json(mydata).then((data) => {
@@ -148,29 +149,22 @@ function piechart(years)  {
 }
 
 
-// function Metadata(years) {d3.json(mydata).then((data) => {
-//     let metadata= data.metadata; // gives you all the keys in the data
-//     // Samples is a filter function that has an object sampleobject which will only spit out the id numbers that you pick on the interface.
-//     let gdpdata = data.map(object => object);
-//         console.log("Here's the GDP data=", gdpdata);
-//         // filter
-//         function yearfilter(object) {return object.year == years}; // filter to return each object sorted by years from 2010-2014.
-//         let yearArray = gdpdata.filter(yearfilter); //and puts it into the array
-//         let gdpArray = yearArray.map(object => object.gdp); // now return each object with only gdp numbers ordered by years. 1931522, 653221, 1383531, 1120632, ...
-//         console.log("Here is my GDPresultArray:", gdpArray);
-//         let twentytenresult = gdpArray[0]; //gives me the first value in this array. 
-//         console.log("Here is my yearArray:", yearArray);
-//     console.log("this is the metadata:", metadata);
-//     console.log("what is the sample?:", years); //
-    
-//     let Metaarray= metadata.filter(Samples);
-//     let Metaresult= Metaarray[0] // 
-//     // communicating with id on index.html. Capture the HTML of a selection
-//     let panel = d3.select("#sample-metadata").html("");
-//     Object.entries(Metaresult).forEach(([key, value]) => {panel.append("h6").text(`${key}: ${value}`); });
-//     });
-// }
-
+function GDPdata(years) {d3.json(mydata2).then((data) => {
+        let gdpdata = data.map(object => object);
+        console.log("Here's the GDP data=", gdpdata);
+        function yearfilter(object) {return object.year == years}; // filter to return each object sorted by years from 2010-2014 when you select from the drop box.
+        let yearArray = gdpdata.filter(yearfilter); //and puts it into the array
+        console.log("Here is my states result Array:", yearArray);
+        // United States filter
+        function unitedstates(object) {return object.state == "United States"};
+        let unitedstatesresultArray = yearArray.filter(unitedstates); //and puts it into the array
+        console.log("Here is my UnitedStates resultArray:", unitedstatesresultArray);
+        let twentytenresult = unitedstatesresultArray[0]; //gives me the first value in this array. 
+        // communicating with id on index.html. Capture the HTML of a selection
+        let panel = d3.select("#sample-gdpdata").html("");
+        Object.entries(twentytenresult).forEach(([key, value]) => {panel.append("h6").text(`${key}: ${value}`); });
+    });
+}
 
 function optionChanged(years)
 {
@@ -178,9 +172,9 @@ function optionChanged(years)
 
     Bargraph(years); 
     piechart(years); 
-    Metadata(years); 
+    GDPdata(years); 
 }
 
 
 // calling the function for the function to run.
-InitDashboard(); 
+InitDashboard();
