@@ -70,6 +70,7 @@ function Bargraph(years)
         let slicedGDPData = sortedgdpdata.slice(0, 20);
         let slicedStateData = sortedgdpstatedata.slice(0, 20);
 
+
         let title = "United States GDP per capita"
         let xstates = slicedStateData
 
@@ -123,15 +124,42 @@ function piechart(years)  {
         let sortedgdpdata = sorteddata.map(object => object.gdp);
         // show 2010 state array sorted by descending GDP
         let sortedgdpstatedata = sorteddata.map(object => object.state);
-        // Slice the first 20 objects for plotting
-        let slicedGDPData = sortedgdpdata.slice(0, 20);
-        let slicedStateData = sortedgdpstatedata.slice(0, 20);
+
+       // aggregating or lumping the last 30 states into one in a pie chart.
+       let gdppiearray = [];
+            // console.log(sortedgdpstatedata[19]); //Minnesota
+            for (let i = 0; i < 20; i++) {
+           gdppiearray.push(sortedgdpdata[i]);
+            };
+            function sumofrestgdp(arr)  { let total = 0; for (let i = 21; i < arr.length; i++) {
+            total += arr[i];
+            }
+            let sum = total;
+            return sum;
+        };    
+            
+        // defining the names of the slice of pie.
+            let sumofrestofgdppiearray = sumofrestgdp(sortedgdpdata)
+            console.log("Here's my sum:", sumofrestofgdppiearray);
+
+            gdppiearray.push(sumofrestofgdppiearray);
+       
+            console.log("Here's the array of gdp simplified:", gdppiearray);
+
+            let statearray = [];
+            for (let i = 0; i < 20; i++) {
+            statearray.push(sortedgdpstatedata[i]); 
+            };
+            
+            statearray.push("other states");
+
+        console.log("Here are the simplified states in 2010 in descending order:", statearray);
         
         let pietitle = "United States GDP per capita"
-        let labels = slicedStateData;
+        let labels = statearray;
 
         let piedata = [{
-            values: slicedGDPData,
+            values: gdppiearray,
             labels: labels,
             type: "pie"
           }];
