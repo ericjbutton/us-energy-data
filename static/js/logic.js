@@ -1,6 +1,6 @@
 console.log("hello");
 
-const file_endpoint = "readjsonfile/data.geojson"; 
+const file_endpoint = "readjsonfile/data.json"; 
 
 // IMPORTANT: Now, choose which of these two endpoints to use! 
 let url = file_endpoint; 

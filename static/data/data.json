@@ -15,771 +15,6 @@
     "year": 2010
     },
     {
-    "biomass_consumption": 4178,
-    "coal_consumption": 14548,
-    "coordinates": [
-    -152.404419,
-    61.370716
-    ],
-    "electricity_consumption": 21315,
-    "fossil_fuel_consumption": 634777,
-    "gdp": 653221,
-    "natural_gas_consumption": 334978,
-    "state": "Alaska",
-    "total_energy": 653221,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 29289,
-    "coal_consumption": 457909,
-    "coordinates": [
-    -111.431221,
-    33.729759
-    ],
-    "electricity_consumption": 248506,
-    "fossil_fuel_consumption": 1292346,
-    "gdp": 1383531,
-    "natural_gas_consumption": 336208,
-    "state": "Arizona",
-    "total_energy": 1383531,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 94865,
-    "coal_consumption": 293689,
-    "coordinates": [
-    -92.373123,
-    34.969704
-    ],
-    "electricity_consumption": 164439,
-    "fossil_fuel_consumption": 909827,
-    "gdp": 1120632,
-    "natural_gas_consumption": 274774,
-    "state": "Arkansas",
-    "total_energy": 1120632,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 280124,
-    "coal_consumption": 54972,
-    "coordinates": [
-    -119.681564,
-    36.116203
-    ],
-    "electricity_consumption": 882107,
-    "fossil_fuel_consumption": 5741492,
-    "gdp": 7760629,
-    "natural_gas_consumption": 2325411,
-    "state": "California",
-    "total_energy": 7760629,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 28210,
-    "coal_consumption": 382623,
-    "coordinates": [
-    -105.311104,
-    39.059811
-    ],
-    "electricity_consumption": 180555,
-    "fossil_fuel_consumption": 1370758,
-    "gdp": 1513547,
-    "natural_gas_consumption": 510877,
-    "state": "Colorado",
-    "total_energy": 1513547,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 35716,
-    "coal_consumption": 28711,
-    "coordinates": [
-    -72.755371,
-    41.597782
-    ],
-    "electricity_consumption": 103697,
-    "fossil_fuel_consumption": 562060,
-    "gdp": 764970,
-    "natural_gas_consumption": 203814,
-    "state": "Connecticut",
-    "total_energy": 764970,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 6901,
-    "coal_consumption": 30253,
-    "coordinates": [
-    -75.507141,
-    39.318523
-    ],
-    "electricity_consumption": 39599,
-    "fossil_fuel_consumption": 171414,
-    "gdp": 250212,
-    "natural_gas_consumption": 56087,
-    "state": "Delaware",
-    "total_energy": 250212,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 246789,
-    "coal_consumption": 637416,
-    "coordinates": [
-    -81.686783,
-    27.766279
-    ],
-    "electricity_consumption": 788887,
-    "fossil_fuel_consumption": 3491560,
-    "gdp": 4282673,
-    "natural_gas_consumption": 1180462,
-    "state": "Florida",
-    "total_energy": 4282673,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 204742,
-    "coal_consumption": 767906,
-    "coordinates": [
-    -83.643074,
-    33.040619
-    ],
-    "electricity_consumption": 479971,
-    "fossil_fuel_consumption": 2324200,
-    "gdp": 3100144,
-    "natural_gas_consumption": 541691,
-    "state": "Georgia",
-    "total_energy": 3100144,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 10448,
-    "coal_consumption": 17117,
-    "coordinates": [
-    -157.498337,
-    21.094318
-    ],
-    "electricity_consumption": 34176,
-    "fossil_fuel_consumption": 259018,
-    "gdp": 278046,
-    "natural_gas_consumption": 2732,
-    "state": "Hawaii",
-    "total_energy": 278046,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 33561,
-    "coal_consumption": 8527,
-    "coordinates": [
-    -114.478828,
-    44.240459
-    ],
-    "electricity_consumption": 77786,
-    "fossil_fuel_consumption": 250946,
-    "gdp": 516120,
-    "natural_gas_consumption": 85075,
-    "state": "Idaho",
-    "total_energy": 516120,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 147792,
-    "coal_consumption": 1069037,
-    "coordinates": [
-    -88.986137,
-    40.349457
-    ],
-    "electricity_consumption": 493923,
-    "fossil_fuel_consumption": 3225698,
-    "gdp": 3955091,
-    "natural_gas_consumption": 974412,
-    "state": "Illinois",
-    "total_energy": 3955091,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 98571,
-    "coal_consumption": 1449371,
-    "coordinates": [
-    -86.258278,
-    39.849426
-    ],
-    "electricity_consumption": 361653,
-    "fossil_fuel_consumption": 2770123,
-    "gdp": 2863396,
-    "natural_gas_consumption": 580752,
-    "state": "Indiana",
-    "total_energy": 2863396,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 239261,
-    "coal_consumption": 493794,
-    "coordinates": [
-    -93.210526,
-    42.011539
-    ],
-    "electricity_consumption": 155059,
-    "fossil_fuel_consumption": 1187456,
-    "gdp": 1499729,
-    "natural_gas_consumption": 312941,
-    "state": "Iowa",
-    "total_energy": 1499729,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 39348,
-    "coal_consumption": 359908,
-    "coordinates": [
-    -96.726486,
-    38.5266
-    ],
-    "electricity_consumption": 137915,
-    "fossil_fuel_consumption": 997849,
-    "gdp": 1117631,
-    "natural_gas_consumption": 280413,
-    "state": "Kansas",
-    "total_energy": 1117631,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 51017,
-    "coal_consumption": 1009823,
-    "coordinates": [
-    -84.670067,
-    37.66814
-    ],
-    "electricity_consumption": 319259,
-    "fossil_fuel_consumption": 1874296,
-    "gdp": 1978527,
-    "natural_gas_consumption": 239062,
-    "state": "Kentucky",
-    "total_energy": 1978527,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 112227,
-    "coal_consumption": 259750,
-    "coordinates": [
-    -91.867805,
-    31.169546
-    ],
-    "electricity_consumption": 290292,
-    "fossil_fuel_consumption": 3974821,
-    "gdp": 4385758,
-    "natural_gas_consumption": 1483201,
-    "state": "Louisiana",
-    "total_energy": 4385758,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 114477,
-    "coal_consumption": 2279,
-    "coordinates": [
-    -69.381927,
-    44.693947
-    ],
-    "electricity_consumption": 39346,
-    "fossil_fuel_consumption": 277354,
-    "gdp": 415065,
-    "natural_gas_consumption": 80988,
-    "state": "Maine",
-    "total_energy": 415065,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 51683,
-    "coal_consumption": 266067,
-    "coordinates": [
-    -76.802101,
-    39.063946
-    ],
-    "electricity_consumption": 222925,
-    "fossil_fuel_consumption": 963419,
-    "gdp": 1464503,
-    "natural_gas_consumption": 217744,
-    "state": "Maryland",
-    "total_energy": 1464503,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 59866,
-    "coal_consumption": 83850,
-    "coordinates": [
-    -71.530106,
-    42.230171
-    ],
-    "electricity_consumption": 194905,
-    "fossil_fuel_consumption": 1107941,
-    "gdp": 1416119,
-    "natural_gas_consumption": 447429,
-    "state": "Massachusetts",
-    "total_energy": 1416119,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 129422,
-    "coal_consumption": 749285,
-    "coordinates": [
-    -84.536095,
-    43.326618
-    ],
-    "electricity_consumption": 353651,
-    "fossil_fuel_consumption": 2305457,
-    "gdp": 2753536,
-    "natural_gas_consumption": 758696,
-    "state": "Michigan",
-    "total_energy": 2753536,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 163181,
-    "coal_consumption": 315438,
-    "coordinates": [
-    -93.900192,
-    45.694454
-    ],
-    "electricity_consumption": 231333,
-    "fossil_fuel_consumption": 1337325,
-    "gdp": 1857095,
-    "natural_gas_consumption": 427198,
-    "state": "Minnesota",
-    "total_energy": 1857095,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 71310,
-    "coal_consumption": 148463,
-    "coordinates": [
-    -89.678696,
-    32.741646
-    ],
-    "electricity_consumption": 169533,
-    "fossil_fuel_consumption": 999309,
-    "gdp": 1177620,
-    "natural_gas_consumption": 444875,
-    "state": "Mississippi",
-    "total_energy": 1177620,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 69261,
-    "coal_consumption": 801625,
-    "coordinates": [
-    -92.288368,
-    38.456085
-    ],
-    "electricity_consumption": 293722,
-    "fossil_fuel_consumption": 1721620,
-    "gdp": 1910500,
-    "natural_gas_consumption": 282141,
-    "state": "Missouri",
-    "total_energy": 1910500,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 14644,
-    "coal_consumption": 203339,
-    "coordinates": [
-    -110.454353,
-    46.921925
-    ],
-    "electricity_consumption": 46988,
-    "fossil_fuel_consumption": 447231,
-    "gdp": 400855,
-    "natural_gas_consumption": 72888,
-    "state": "Montana",
-    "total_energy": 400855,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 109887,
-    "coal_consumption": 254552,
-    "coordinates": [
-    -98.268082,
-    41.12537
-    ],
-    "electricity_consumption": 101846,
-    "fossil_fuel_consumption": 666348,
-    "gdp": 860741,
-    "natural_gas_consumption": 169620,
-    "state": "Nebraska",
-    "total_energy": 860741,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 9739,
-    "coal_consumption": 80228,
-    "coordinates": [
-    -117.055374,
-    38.313515
-    ],
-    "electricity_consumption": 115232,
-    "fossil_fuel_consumption": 577325,
-    "gdp": 645604,
-    "natural_gas_consumption": 267808,
-    "state": "Nevada",
-    "total_energy": 645604,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 33502,
-    "coal_consumption": 33827,
-    "coordinates": [
-    -71.563896,
-    43.452492
-    ],
-    "electricity_consumption": 37157,
-    "fossil_fuel_consumption": 242475,
-    "gdp": 294473,
-    "natural_gas_consumption": 62612,
-    "state": "New Hampshire",
-    "total_energy": 294473,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 64370,
-    "coal_consumption": 71961,
-    "coordinates": [
-    -74.521011,
-    40.298904
-    ],
-    "electricity_consumption": 270160,
-    "fossil_fuel_consumption": 1772767,
-    "gdp": 2395713,
-    "natural_gas_consumption": 671474,
-    "state": "New Jersey",
-    "total_energy": 2395713,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 17663,
-    "coal_consumption": 267474,
-    "coordinates": [
-    -106.248482,
-    34.840515
-    ],
-    "electricity_consumption": 76526,
-    "fossil_fuel_consumption": 737539,
-    "gdp": 649962,
-    "natural_gas_consumption": 246201,
-    "state": "New Mexico",
-    "total_energy": 649962,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 120168,
-    "coal_consumption": 167094,
-    "coordinates": [
-    -74.948051,
-    42.165726
-    ],
-    "electricity_consumption": 493456,
-    "fossil_fuel_consumption": 2733286,
-    "gdp": 3723729,
-    "natural_gas_consumption": 1224485,
-    "state": "New York",
-    "total_energy": 3723729,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 134325,
-    "coal_consumption": 749091,
-    "coordinates": [
-    -79.806419,
-    35.630066
-    ],
-    "electricity_consumption": 465448,
-    "fossil_fuel_consumption": 1869784,
-    "gdp": 2685333,
-    "natural_gas_consumption": 308710,
-    "state": "North Carolina",
-    "total_energy": 2685333,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 25305,
-    "coal_consumption": 409684,
-    "coordinates": [
-    -99.784012,
-    47.528912
-    ],
-    "electricity_consumption": 44207,
-    "fossil_fuel_consumption": 622237,
-    "gdp": 476072,
-    "natural_gas_consumption": 70046,
-    "state": "North Dakota",
-    "total_energy": 476072,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 110645,
-    "coal_consumption": 1355137,
-    "coordinates": [
-    -82.764915,
-    40.388783
-    ],
-    "electricity_consumption": 525944,
-    "fossil_fuel_consumption": 3304252,
-    "gdp": 3824933,
-    "natural_gas_consumption": 810958,
-    "state": "Ohio",
-    "total_energy": 3824933,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 39320,
-    "coal_consumption": 346047,
-    "coordinates": [
-    -96.928917,
-    35.565342
-    ],
-    "electricity_consumption": 197370,
-    "fossil_fuel_consumption": 1571983,
-    "gdp": 1579910,
-    "natural_gas_consumption": 697351,
-    "state": "Oklahoma",
-    "total_energy": 1579910,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 59498,
-    "coal_consumption": 42556,
-    "coordinates": [
-    -122.070938,
-    44.572021
-    ],
-    "electricity_consumption": 157041,
-    "fossil_fuel_consumption": 628380,
-    "gdp": 975067,
-    "natural_gas_consumption": 242914,
-    "state": "Oregon",
-    "total_energy": 975067,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 132240,
-    "coal_consumption": 1310670,
-    "coordinates": [
-    -77.209755,
-    40.590752
-    ],
-    "electricity_consumption": 508265,
-    "fossil_fuel_consumption": 3469617,
-    "gdp": 3752280,
-    "natural_gas_consumption": 909263,
-    "state": "Pennsylvania",
-    "total_energy": 3752280,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 6691,
-    "coal_consumption": 0,
-    "coordinates": [
-    -71.51178,
-    41.680893
-    ],
-    "electricity_consumption": 26611,
-    "fossil_fuel_consumption": 184732,
-    "gdp": 195314,
-    "natural_gas_consumption": 95710,
-    "state": "Rhode Island",
-    "total_energy": 195314,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 101716,
-    "coal_consumption": 404966,
-    "coordinates": [
-    -80.945007,
-    33.856892
-    ],
-    "electricity_consumption": 281419,
-    "fossil_fuel_consumption": 1124533,
-    "gdp": 1643912,
-    "natural_gas_consumption": 225961,
-    "state": "South Carolina",
-    "total_energy": 1643912,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 63943,
-    "coal_consumption": 39061,
-    "coordinates": [
-    -99.438828,
-    44.299782
-    ],
-    "electricity_consumption": 38747,
-    "fossil_fuel_consumption": 226232,
-    "gdp": 378514,
-    "natural_gas_consumption": 72926,
-    "state": "South Dakota",
-    "total_energy": 378514,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 91516,
-    "coal_consumption": 515464,
-    "coordinates": [
-    -86.692345,
-    35.747845
-    ],
-    "electricity_consumption": 353215,
-    "fossil_fuel_consumption": 1461432,
-    "gdp": 2247273,
-    "natural_gas_consumption": 263365,
-    "state": "Tennessee",
-    "total_energy": 2247273,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 179840,
-    "coal_consumption": 1568060,
-    "coordinates": [
-    -97.563461,
-    31.054487
-    ],
-    "electricity_consumption": 1223057,
-    "fossil_fuel_consumption": 10741110,
-    "gdp": 11687521,
-    "natural_gas_consumption": 3689583,
-    "state": "Texas",
-    "total_energy": 11687521,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 7712,
-    "coal_consumption": 356148,
-    "coordinates": [
-    -111.862434,
-    40.150032
-    ],
-    "electricity_consumption": 95686,
-    "fossil_fuel_consumption": 847682,
-    "gdp": 756012,
-    "natural_gas_consumption": 229078,
-    "state": "Utah",
-    "total_energy": 756012,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 19041,
-    "coal_consumption": 0,
-    "coordinates": [
-    -72.710686,
-    44.045876
-    ],
-    "electricity_consumption": 19090,
-    "fossil_fuel_consumption": 90299,
-    "gdp": 153697,
-    "natural_gas_consumption": 8502,
-    "state": "Vermont",
-    "total_energy": 153697,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 119506,
-    "coal_consumption": 346161,
-    "coordinates": [
-    -78.169968,
-    37.769337
-    ],
-    "electricity_consumption": 388307,
-    "fossil_fuel_consumption": 1535604,
-    "gdp": 2483360,
-    "natural_gas_consumption": 385931,
-    "state": "Virginia",
-    "total_energy": 2483360,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 115340,
-    "coal_consumption": 94934,
-    "coordinates": [
-    -121.490494,
-    47.400902
-    ],
-    "electricity_consumption": 308376,
-    "fossil_fuel_consumption": 1115899,
-    "gdp": 2031428,
-    "natural_gas_consumption": 294871,
-    "state": "Washington",
-    "total_energy": 2031428,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 25598,
-    "coal_consumption": 848129,
-    "coordinates": [
-    -80.954453,
-    38.491226
-    ],
-    "electricity_consumption": 109293,
-    "fossil_fuel_consumption": 1165405,
-    "gdp": 738821,
-    "natural_gas_consumption": 121780,
-    "state": "West Virginia",
-    "total_energy": 738821,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 137892,
-    "coal_consumption": 458442,
-    "coordinates": [
-    -89.616508,
-    44.268543
-    ],
-    "electricity_consumption": 234583,
-    "fossil_fuel_consumption": 1361165,
-    "gdp": 1791199,
-    "natural_gas_consumption": 376627,
-    "state": "Wisconsin",
-    "total_energy": 1791199,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 3330,
-    "coal_consumption": 484239,
-    "coordinates": [
-    -107.30249,
-    42.755966
-    ],
-    "electricity_consumption": 58391,
-    "fossil_fuel_consumption": 805265,
-    "gdp": 540122,
-    "natural_gas_consumption": 154759,
-    "state": "Wyoming",
-    "total_energy": 540122,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 1027,
-    "coal_consumption": 71,
-    "coordinates": [
-    -77.026817,
-    38.897438
-    ],
-    "electricity_consumption": 40524,
-    "fossil_fuel_consumption": 58155,
-    "gdp": 190529,
-    "natural_gas_consumption": 33717,
-    "state": "District of Columbia",
-    "total_energy": 190529,
-    "year": 2010
-    },
-    {
-    "biomass_consumption": 4235786,
-    "coal_consumption": 20828382,
-    "coordinates": [
-    null,
-    null
-    ],
-    "electricity_consumption": 12811519,
-    "fossil_fuel_consumption": 80891321,
-    "gdp": 97446021,
-    "natural_gas_consumption": 24633507,
-    "state": "United States",
-    "total_energy": 97446021,
-    "year": 2010
-    },
-    {
     "biomass_consumption": 179611,
     "coal_consumption": 651032,
     "coordinates": [
@@ -792,771 +27,6 @@
     "natural_gas_consumption": 609288,
     "state": "Alabama",
     "total_energy": 1905207,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 4247,
-    "coal_consumption": 15481,
-    "coordinates": [
-    -152.404419,
-    61.370716
-    ],
-    "electricity_consumption": 21562,
-    "fossil_fuel_consumption": 635981,
-    "gdp": 653637,
-    "natural_gas_consumption": 339819,
-    "state": "Alaska",
-    "total_energy": 653637,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 28565,
-    "coal_consumption": 459909,
-    "coordinates": [
-    -111.431221,
-    33.729759
-    ],
-    "electricity_consumption": 255708,
-    "fossil_fuel_consumption": 1253992,
-    "gdp": 1424944,
-    "natural_gas_consumption": 293134,
-    "state": "Arizona",
-    "total_energy": 1424944,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 97160,
-    "coal_consumption": 306119,
-    "coordinates": [
-    -92.373123,
-    34.969704
-    ],
-    "electricity_consumption": 163530,
-    "fossil_fuel_consumption": 932878,
-    "gdp": 1122544,
-    "natural_gas_consumption": 288906,
-    "state": "Arkansas",
-    "total_energy": 1122544,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 282581,
-    "coal_consumption": 55264,
-    "coordinates": [
-    -119.681564,
-    36.116203
-    ],
-    "electricity_consumption": 893745,
-    "fossil_fuel_consumption": 5550201,
-    "gdp": 7777115,
-    "natural_gas_consumption": 2196252,
-    "state": "California",
-    "total_energy": 7777115,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 30883,
-    "coal_consumption": 368871,
-    "coordinates": [
-    -105.311104,
-    39.059811
-    ],
-    "electricity_consumption": 182400,
-    "fossil_fuel_consumption": 1304903,
-    "gdp": 1470445,
-    "natural_gas_consumption": 481614,
-    "state": "Colorado",
-    "total_energy": 1470445,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 33958,
-    "coal_consumption": 6081,
-    "coordinates": [
-    -72.755371,
-    41.597782
-    ],
-    "electricity_consumption": 101879,
-    "fossil_fuel_consumption": 557282,
-    "gdp": 739130,
-    "natural_gas_consumption": 236016,
-    "state": "Connecticut",
-    "total_energy": 739130,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 6781,
-    "coal_consumption": 17881,
-    "coordinates": [
-    -75.507141,
-    39.318523
-    ],
-    "electricity_consumption": 39181,
-    "fossil_fuel_consumption": 201518,
-    "gdp": 272568,
-    "natural_gas_consumption": 81710,
-    "state": "Delaware",
-    "total_energy": 272568,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 245557,
-    "coal_consumption": 552730,
-    "coordinates": [
-    -81.686783,
-    27.766279
-    ],
-    "electricity_consumption": 768009,
-    "fossil_fuel_consumption": 3357837,
-    "gdp": 4141711,
-    "natural_gas_consumption": 1235953,
-    "state": "Florida",
-    "total_energy": 4141711,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 210583,
-    "coal_consumption": 634756,
-    "coordinates": [
-    -83.643074,
-    33.040619
-    ],
-    "electricity_consumption": 465298,
-    "fossil_fuel_consumption": 2142535,
-    "gdp": 2982837,
-    "natural_gas_consumption": 532310,
-    "state": "Georgia",
-    "total_energy": 2982837,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 10550,
-    "coal_consumption": 16080,
-    "coordinates": [
-    -157.498337,
-    21.094318
-    ],
-    "electricity_consumption": 33989,
-    "fossil_fuel_consumption": 265505,
-    "gdp": 287113,
-    "natural_gas_consumption": 2744,
-    "state": "Hawaii",
-    "total_energy": 287113,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 31192,
-    "coal_consumption": 7846,
-    "coordinates": [
-    -114.478828,
-    44.240459
-    ],
-    "electricity_consumption": 79403,
-    "fossil_fuel_consumption": 247718,
-    "gdp": 516978,
-    "natural_gas_consumption": 83947,
-    "state": "Idaho",
-    "total_energy": 516978,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 133873,
-    "coal_consumption": 1052224,
-    "coordinates": [
-    -88.986137,
-    40.349457
-    ],
-    "electricity_consumption": 487526,
-    "fossil_fuel_consumption": 3212010,
-    "gdp": 3937616,
-    "natural_gas_consumption": 997722,
-    "state": "Illinois",
-    "total_energy": 3937616,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 105527,
-    "coal_consumption": 1333442,
-    "coordinates": [
-    -86.258278,
-    39.849426
-    ],
-    "electricity_consumption": 361051,
-    "fossil_fuel_consumption": 2712351,
-    "gdp": 2847188,
-    "natural_gas_consumption": 638237,
-    "state": "Indiana",
-    "total_energy": 2847188,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 231401,
-    "coal_consumption": 463138,
-    "coordinates": [
-    -93.210526,
-    42.011539
-    ],
-    "electricity_consumption": 155774,
-    "fossil_fuel_consumption": 1155743,
-    "gdp": 1498973,
-    "natural_gas_consumption": 309672,
-    "state": "Iowa",
-    "total_energy": 1498973,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 41131,
-    "coal_consumption": 346521,
-    "coordinates": [
-    -96.726486,
-    38.5266
-    ],
-    "electricity_consumption": 139074,
-    "fossil_fuel_consumption": 970721,
-    "gdp": 1104843,
-    "natural_gas_consumption": 285318,
-    "state": "Kansas",
-    "total_energy": 1104843,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 51474,
-    "coal_consumption": 1010623,
-    "coordinates": [
-    -84.670067,
-    37.66814
-    ],
-    "electricity_consumption": 305505,
-    "fossil_fuel_consumption": 1846216,
-    "gdp": 1903208,
-    "natural_gas_consumption": 229056,
-    "state": "Kentucky",
-    "total_energy": 1903208,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 113514,
-    "coal_consumption": 269993,
-    "coordinates": [
-    -91.867805,
-    31.169546
-    ],
-    "electricity_consumption": 294691,
-    "fossil_fuel_consumption": 4015581,
-    "gdp": 4388867,
-    "natural_gas_consumption": 1536147,
-    "state": "Louisiana",
-    "total_energy": 4388867,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 113899,
-    "coal_consumption": 1542,
-    "coordinates": [
-    -69.381927,
-    44.693947
-    ],
-    "electricity_consumption": 38949,
-    "fossil_fuel_consumption": 268118,
-    "gdp": 413893,
-    "natural_gas_consumption": 75061,
-    "state": "Maine",
-    "total_energy": 413893,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 49917,
-    "coal_consumption": 241190,
-    "coordinates": [
-    -76.802101,
-    39.063946
-    ],
-    "electricity_consumption": 217002,
-    "fossil_fuel_consumption": 900614,
-    "gdp": 1410012,
-    "natural_gas_consumption": 199223,
-    "state": "Maryland",
-    "total_energy": 1410012,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 59074,
-    "coal_consumption": 42963,
-    "coordinates": [
-    -71.530106,
-    42.230171
-    ],
-    "electricity_consumption": 189605,
-    "fossil_fuel_consumption": 1073354,
-    "gdp": 1397164,
-    "natural_gas_consumption": 464018,
-    "state": "Massachusetts",
-    "total_energy": 1397164,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 140472,
-    "coal_consumption": 691150,
-    "coordinates": [
-    -84.536095,
-    43.326618
-    ],
-    "electricity_consumption": 358443,
-    "fossil_fuel_consumption": 2253650,
-    "gdp": 2785212,
-    "natural_gas_consumption": 787337,
-    "state": "Michigan",
-    "total_energy": 2785212,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 155130,
-    "coal_consumption": 315604,
-    "coordinates": [
-    -93.900192,
-    45.694454
-    ],
-    "electricity_consumption": 233834,
-    "fossil_fuel_consumption": 1329595,
-    "gdp": 1850749,
-    "natural_gas_consumption": 424978,
-    "state": "Minnesota",
-    "total_energy": 1850749,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 71184,
-    "coal_consumption": 107546,
-    "coordinates": [
-    -89.678696,
-    32.741646
-    ],
-    "electricity_consumption": 168340,
-    "fossil_fuel_consumption": 944952,
-    "gdp": 1155456,
-    "natural_gas_consumption": 437873,
-    "state": "Mississippi",
-    "total_energy": 1155456,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 66131,
-    "coal_consumption": 825650,
-    "coordinates": [
-    -92.288368,
-    38.456085
-    ],
-    "electricity_consumption": 287478,
-    "fossil_fuel_consumption": 1719891,
-    "gdp": 1856590,
-    "natural_gas_consumption": 275308,
-    "state": "Missouri",
-    "total_energy": 1856590,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 7601,
-    "coal_consumption": 165687,
-    "coordinates": [
-    -110.454353,
-    46.921925
-    ],
-    "electricity_consumption": 47045,
-    "fossil_fuel_consumption": 422616,
-    "gdp": 402355,
-    "natural_gas_consumption": 79470,
-    "state": "Montana",
-    "total_energy": 402355,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 116589,
-    "coal_consumption": 285384,
-    "coordinates": [
-    -98.268082,
-    41.12537
-    ],
-    "electricity_consumption": 101255,
-    "fossil_fuel_consumption": 690557,
-    "gdp": 862675,
-    "natural_gas_consumption": 173666,
-    "state": "Nebraska",
-    "total_energy": 862675,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 9375,
-    "coal_consumption": 62701,
-    "coordinates": [
-    -117.055374,
-    38.313515
-    ],
-    "electricity_consumption": 115723,
-    "fossil_fuel_consumption": 529486,
-    "gdp": 632655,
-    "natural_gas_consumption": 255970,
-    "state": "Nevada",
-    "total_energy": 632655,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 33745,
-    "coal_consumption": 24489,
-    "coordinates": [
-    -71.563896,
-    43.452492
-    ],
-    "electricity_consumption": 37084,
-    "fossil_fuel_consumption": 242846,
-    "gdp": 292979,
-    "natural_gas_consumption": 72778,
-    "state": "New Hampshire",
-    "total_energy": 292979,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 62752,
-    "coal_consumption": 49592,
-    "coordinates": [
-    -74.521011,
-    40.298904
-    ],
-    "electricity_consumption": 262246,
-    "fossil_fuel_consumption": 1794240,
-    "gdp": 2411816,
-    "natural_gas_consumption": 677923,
-    "state": "New Jersey",
-    "total_energy": 2411816,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 17054,
-    "coal_consumption": 284737,
-    "coordinates": [
-    -106.248482,
-    34.840515
-    ],
-    "electricity_consumption": 78618,
-    "fossil_fuel_consumption": 768020,
-    "gdp": 668675,
-    "natural_gas_consumption": 251838,
-    "state": "New Mexico",
-    "total_energy": 668675,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 124402,
-    "coal_consumption": 125181,
-    "coordinates": [
-    -74.948051,
-    42.165726
-    ],
-    "electricity_consumption": 491487,
-    "fossil_fuel_consumption": 2620842,
-    "gdp": 3611091,
-    "natural_gas_consumption": 1247757,
-    "state": "New York",
-    "total_energy": 3611091,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 141002,
-    "coal_consumption": 624783,
-    "coordinates": [
-    -79.806419,
-    35.630066
-    ],
-    "electricity_consumption": 447262,
-    "fossil_fuel_consumption": 1704725,
-    "gdp": 2558792,
-    "natural_gas_consumption": 311189,
-    "state": "North Carolina",
-    "total_energy": 2558792,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 27145,
-    "coal_consumption": 394771,
-    "coordinates": [
-    -99.784012,
-    47.528912
-    ],
-    "electricity_consumption": 46871,
-    "fossil_fuel_consumption": 652742,
-    "gdp": 528508,
-    "natural_gas_consumption": 77752,
-    "state": "North Dakota",
-    "total_energy": 528508,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 115650,
-    "coal_consumption": 1222606,
-    "coordinates": [
-    -82.764915,
-    40.388783
-    ],
-    "electricity_consumption": 527994,
-    "fossil_fuel_consumption": 3188336,
-    "gdp": 3792585,
-    "natural_gas_consumption": 849076,
-    "state": "Ohio",
-    "total_energy": 3792585,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 39133,
-    "coal_consumption": 378320,
-    "coordinates": [
-    -96.928917,
-    35.565342
-    ],
-    "electricity_consumption": 204197,
-    "fossil_fuel_consumption": 1576848,
-    "gdp": 1585212,
-    "natural_gas_consumption": 676910,
-    "state": "Oklahoma",
-    "total_energy": 1585212,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 57460,
-    "coal_consumption": 35135,
-    "coordinates": [
-    -122.070938,
-    44.572021
-    ],
-    "electricity_consumption": 160949,
-    "fossil_fuel_consumption": 572458,
-    "gdp": 1002476,
-    "natural_gas_consumption": 203607,
-    "state": "Oregon",
-    "total_energy": 1002476,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 143718,
-    "coal_consumption": 1212984,
-    "coordinates": [
-    -77.209755,
-    40.590752
-    ],
-    "electricity_consumption": 507560,
-    "fossil_fuel_consumption": 3412240,
-    "gdp": 3725014,
-    "natural_gas_consumption": 1000509,
-    "state": "Pennsylvania",
-    "total_energy": 3725014,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 6265,
-    "coal_consumption": 0,
-    "coordinates": [
-    -71.51178,
-    41.680893
-    ],
-    "electricity_consumption": 26383,
-    "fossil_fuel_consumption": 185371,
-    "gdp": 185731,
-    "natural_gas_consumption": 102465,
-    "state": "Rhode Island",
-    "total_energy": 185731,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 111632,
-    "coal_consumption": 366160,
-    "coordinates": [
-    -80.945007,
-    33.856892
-    ],
-    "electricity_consumption": 274627,
-    "fossil_fuel_consumption": 1077992,
-    "gdp": 1601881,
-    "natural_gas_consumption": 235465,
-    "state": "South Carolina",
-    "total_energy": 1601881,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 62472,
-    "coal_consumption": 32112,
-    "coordinates": [
-    -99.438828,
-    44.299782
-    ],
-    "electricity_consumption": 39851,
-    "fossil_fuel_consumption": 218924,
-    "gdp": 378470,
-    "natural_gas_consumption": 73973,
-    "state": "South Dakota",
-    "total_energy": 378470,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 91048,
-    "coal_consumption": 481127,
-    "coordinates": [
-    -86.692345,
-    35.747845
-    ],
-    "electricity_consumption": 343702,
-    "fossil_fuel_consumption": 1427048,
-    "gdp": 2195401,
-    "natural_gas_consumption": 267929,
-    "state": "Tennessee",
-    "total_energy": 2195401,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 205461,
-    "coal_consumption": 1695239,
-    "coordinates": [
-    -97.563461,
-    31.054487
-    ],
-    "electricity_consumption": 1283134,
-    "fossil_fuel_consumption": 10979933,
-    "gdp": 11906249,
-    "natural_gas_consumption": 3800578,
-    "state": "Texas",
-    "total_energy": 11906249,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 9209,
-    "coal_consumption": 346181,
-    "coordinates": [
-    -111.862434,
-    40.150032
-    ],
-    "electricity_consumption": 98467,
-    "fossil_fuel_consumption": 858627,
-    "gdp": 794058,
-    "natural_gas_consumption": 230672,
-    "state": "Utah",
-    "total_energy": 794058,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 17194,
-    "coal_consumption": 0,
-    "coordinates": [
-    -72.710686,
-    44.045876
-    ],
-    "electricity_consumption": 18937,
-    "fossil_fuel_consumption": 88836,
-    "gdp": 150475,
-    "natural_gas_consumption": 8679,
-    "state": "Vermont",
-    "total_energy": 150475,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 116144,
-    "coal_consumption": 288348,
-    "coordinates": [
-    -78.169968,
-    37.769337
-    ],
-    "electricity_consumption": 376099,
-    "fossil_fuel_consumption": 1431388,
-    "gdp": 2380922,
-    "natural_gas_consumption": 383527,
-    "state": "Virginia",
-    "total_energy": 2380922,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 114621,
-    "coal_consumption": 56951,
-    "coordinates": [
-    -121.490494,
-    47.400902
-    ],
-    "electricity_consumption": 319789,
-    "fossil_fuel_consumption": 1042446,
-    "gdp": 2059630,
-    "natural_gas_consumption": 272261,
-    "state": "Washington",
-    "total_energy": 2059630,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 25409,
-    "coal_consumption": 822645,
-    "coordinates": [
-    -80.954453,
-    38.491226
-    ],
-    "electricity_consumption": 106587,
-    "fossil_fuel_consumption": 1138906,
-    "gdp": 726341,
-    "natural_gas_consumption": 124935,
-    "state": "West Virginia",
-    "total_energy": 726341,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 136188,
-    "coal_consumption": 447370,
-    "coordinates": [
-    -89.616508,
-    44.268543
-    ],
-    "electricity_consumption": 234103,
-    "fossil_fuel_consumption": 1359984,
-    "gdp": 1778018,
-    "natural_gas_consumption": 399247,
-    "state": "Wisconsin",
-    "total_energy": 1778018,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 3974,
-    "coal_consumption": 467671,
-    "coordinates": [
-    -107.30249,
-    42.755966
-    ],
-    "electricity_consumption": 59429,
-    "fossil_fuel_consumption": 797726,
-    "gdp": 556548,
-    "natural_gas_consumption": 161776,
-    "state": "Wyoming",
-    "total_energy": 556548,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 1028,
-    "coal_consumption": 48,
-    "coordinates": [
-    -77.026817,
-    38.897438
-    ],
-    "electricity_consumption": 39450,
-    "fossil_fuel_consumption": 55887,
-    "gdp": 183806,
-    "natural_gas_consumption": 33389,
-    "state": "District of Columbia",
-    "total_energy": 183806,
-    "year": 2011
-    },
-    {
-    "biomass_consumption": 4290667,
-    "coal_consumption": 19663856,
-    "coordinates": [
-    null,
-    null
-    ],
-    "electricity_consumption": 12794475,
-    "fossil_fuel_consumption": 79487114,
-    "gdp": 96827465,
-    "natural_gas_consumption": 25014983,
-    "state": "United States",
-    "total_energy": 96827465,
     "year": 2011
     },
     {
@@ -1575,771 +45,6 @@
     "year": 2012
     },
     {
-    "biomass_consumption": 4032,
-    "coal_consumption": 15521,
-    "coordinates": [
-    -152.404419,
-    61.370716
-    ],
-    "electricity_consumption": 21893,
-    "fossil_fuel_consumption": 629768,
-    "gdp": 649341,
-    "natural_gas_consumption": 347228,
-    "state": "Alaska",
-    "total_energy": 649341,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 27267,
-    "coal_consumption": 420570,
-    "coordinates": [
-    -111.431221,
-    33.729759
-    ],
-    "electricity_consumption": 256116,
-    "fossil_fuel_consumption": 1248032,
-    "gdp": 1395839,
-    "natural_gas_consumption": 339043,
-    "state": "Arizona",
-    "total_energy": 1395839,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 96248,
-    "coal_consumption": 296732,
-    "coordinates": [
-    -92.373123,
-    34.969704
-    ],
-    "electricity_consumption": 159885,
-    "fossil_fuel_consumption": 918078,
-    "gdp": 1067642,
-    "natural_gas_consumption": 300572,
-    "state": "Arkansas",
-    "total_energy": 1067642,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 280963,
-    "coal_consumption": 43832,
-    "coordinates": [
-    -119.681564,
-    36.116203
-    ],
-    "electricity_consumption": 885544,
-    "fossil_fuel_consumption": 5687343,
-    "gdp": 7564063,
-    "natural_gas_consumption": 2456371,
-    "state": "California",
-    "total_energy": 7564063,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 30680,
-    "coal_consumption": 370085,
-    "coordinates": [
-    -105.311104,
-    39.059811
-    ],
-    "electricity_consumption": 183174,
-    "fossil_fuel_consumption": 1282352,
-    "gdp": 1440781,
-    "natural_gas_consumption": 461056,
-    "state": "Colorado",
-    "total_energy": 1440781,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 32800,
-    "coal_consumption": 9290,
-    "coordinates": [
-    -72.755371,
-    41.597782
-    ],
-    "electricity_consumption": 100628,
-    "fossil_fuel_consumption": 544358,
-    "gdp": 725019,
-    "natural_gas_consumption": 236260,
-    "state": "Connecticut",
-    "total_energy": 725019,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 5972,
-    "coal_consumption": 17384,
-    "coordinates": [
-    -75.507141,
-    39.318523
-    ],
-    "electricity_consumption": 39304,
-    "fossil_fuel_consumption": 221203,
-    "gdp": 273728,
-    "natural_gas_consumption": 104421,
-    "state": "Delaware",
-    "total_energy": 273728,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 244646,
-    "coal_consumption": 482984,
-    "coordinates": [
-    -81.686783,
-    27.766279
-    ],
-    "electricity_consumption": 752941,
-    "fossil_fuel_consumption": 3327632,
-    "gdp": 4029903,
-    "natural_gas_consumption": 1348390,
-    "state": "Florida",
-    "total_energy": 4029903,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 207725,
-    "coal_consumption": 435546,
-    "coordinates": [
-    -83.643074,
-    33.040619
-    ],
-    "electricity_consumption": 446900,
-    "fossil_fuel_consumption": 1946907,
-    "gdp": 2767491,
-    "natural_gas_consumption": 625008,
-    "state": "Georgia",
-    "total_energy": 2767491,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 9604,
-    "coal_consumption": 16572,
-    "coordinates": [
-    -157.498337,
-    21.094318
-    ],
-    "electricity_consumption": 32889,
-    "fossil_fuel_consumption": 256754,
-    "gdp": 280171,
-    "natural_gas_consumption": 2813,
-    "state": "Hawaii",
-    "total_energy": 280171,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 31038,
-    "coal_consumption": 5186,
-    "coordinates": [
-    -114.478828,
-    44.240459
-    ],
-    "electricity_consumption": 80905,
-    "fossil_fuel_consumption": 248082,
-    "gdp": 510869,
-    "natural_gas_consumption": 90339,
-    "state": "Idaho",
-    "total_energy": 510869,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 132247,
-    "coal_consumption": 969294,
-    "coordinates": [
-    -88.986137,
-    40.349457
-    ],
-    "electricity_consumption": 489758,
-    "fossil_fuel_consumption": 3044403,
-    "gdp": 3820547,
-    "natural_gas_consumption": 950711,
-    "state": "Illinois",
-    "total_energy": 3820547,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 103946,
-    "coal_consumption": 1193465,
-    "coordinates": [
-    -86.258278,
-    39.849426
-    ],
-    "electricity_consumption": 358852,
-    "fossil_fuel_consumption": 2562415,
-    "gdp": 2770158,
-    "natural_gas_consumption": 657719,
-    "state": "Indiana",
-    "total_energy": 2770158,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 216577,
-    "coal_consumption": 422595,
-    "coordinates": [
-    -93.210526,
-    42.011539
-    ],
-    "electricity_consumption": 155959,
-    "fossil_fuel_consumption": 1092732,
-    "gdp": 1440053,
-    "natural_gas_consumption": 299315,
-    "state": "Iowa",
-    "total_energy": 1440053,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 38492,
-    "coal_consumption": 307585,
-    "coordinates": [
-    -96.726486,
-    38.5266
-    ],
-    "electricity_consumption": 137481,
-    "fossil_fuel_consumption": 913457,
-    "gdp": 1075435,
-    "natural_gas_consumption": 268086,
-    "state": "Kansas",
-    "total_energy": 1075435,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 49735,
-    "coal_consumption": 909705,
-    "coordinates": [
-    -84.670067,
-    37.66814
-    ],
-    "electricity_consumption": 303833,
-    "fossil_fuel_consumption": 1735259,
-    "gdp": 1868483,
-    "natural_gas_consumption": 232702,
-    "state": "Kentucky",
-    "total_energy": 1868483,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 113460,
-    "coal_consumption": 238811,
-    "coordinates": [
-    -91.867805,
-    31.169546
-    ],
-    "electricity_consumption": 289101,
-    "fossil_fuel_consumption": 3886754,
-    "gdp": 4255161,
-    "natural_gas_consumption": 1586439,
-    "state": "Louisiana",
-    "total_energy": 4255161,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 113103,
-    "coal_consumption": 1299,
-    "coordinates": [
-    -69.381927,
-    44.693947
-    ],
-    "electricity_consumption": 39446,
-    "fossil_fuel_consumption": 244896,
-    "gdp": 399670,
-    "natural_gas_consumption": 70451,
-    "state": "Maine",
-    "total_energy": 399670,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 49822,
-    "coal_consumption": 192334,
-    "coordinates": [
-    -76.802101,
-    39.063946
-    ],
-    "electricity_consumption": 210908,
-    "fossil_fuel_consumption": 857053,
-    "gdp": 1368600,
-    "natural_gas_consumption": 216678,
-    "state": "Maryland",
-    "total_energy": 1368600,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 57348,
-    "coal_consumption": 24036,
-    "coordinates": [
-    -71.530106,
-    42.230171
-    ],
-    "electricity_consumption": 188729,
-    "fossil_fuel_consumption": 982397,
-    "gdp": 1363282,
-    "natural_gas_consumption": 430921,
-    "state": "Massachusetts",
-    "total_energy": 1363282,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 140729,
-    "coal_consumption": 621633,
-    "coordinates": [
-    -84.536095,
-    43.326618
-    ],
-    "electricity_consumption": 357640,
-    "fossil_fuel_consumption": 2186354,
-    "gdp": 2687926,
-    "natural_gas_consumption": 804084,
-    "state": "Michigan",
-    "total_energy": 2687926,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 150916,
-    "coal_consumption": 257875,
-    "coordinates": [
-    -93.900192,
-    45.694454
-    ],
-    "electricity_consumption": 231977,
-    "fossil_fuel_consumption": 1281593,
-    "gdp": 1816866,
-    "natural_gas_consumption": 430286,
-    "state": "Minnesota",
-    "total_energy": 1816866,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 84165,
-    "coal_consumption": 82456,
-    "coordinates": [
-    -89.678696,
-    32.741646
-    ],
-    "electricity_consumption": 165099,
-    "fossil_fuel_consumption": 989634,
-    "gdp": 1143099,
-    "natural_gas_consumption": 499946,
-    "state": "Mississippi",
-    "total_energy": 1143099,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 62496,
-    "coal_consumption": 768297,
-    "coordinates": [
-    -92.288368,
-    38.456085
-    ],
-    "electricity_consumption": 281269,
-    "fossil_fuel_consumption": 1623633,
-    "gdp": 1781978,
-    "natural_gas_consumption": 258945,
-    "state": "Missouri",
-    "total_energy": 1781978,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 7601,
-    "coal_consumption": 157308,
-    "coordinates": [
-    -110.454353,
-    46.921925
-    ],
-    "electricity_consumption": 47302,
-    "fossil_fuel_consumption": 405716,
-    "gdp": 395724,
-    "natural_gas_consumption": 75234,
-    "state": "Montana",
-    "total_energy": 395724,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 107042,
-    "coal_consumption": 272587,
-    "coordinates": [
-    -98.268082,
-    41.12537
-    ],
-    "electricity_consumption": 105185,
-    "fossil_fuel_consumption": 668116,
-    "gdp": 852984,
-    "natural_gas_consumption": 161774,
-    "state": "Nebraska",
-    "total_energy": 852984,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 9154,
-    "coal_consumption": 52850,
-    "coordinates": [
-    -117.055374,
-    38.313515
-    ],
-    "electricity_consumption": 120034,
-    "fossil_fuel_consumption": 548427,
-    "gdp": 639190,
-    "natural_gas_consumption": 281432,
-    "state": "Nevada",
-    "total_energy": 639190,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 35301,
-    "coal_consumption": 14191,
-    "coordinates": [
-    -71.563896,
-    43.452492
-    ],
-    "electricity_consumption": 37089,
-    "fossil_fuel_consumption": 224415,
-    "gdp": 284490,
-    "natural_gas_consumption": 74336,
-    "state": "New Hampshire",
-    "total_energy": 284490,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 61003,
-    "coal_consumption": 25589,
-    "coordinates": [
-    -74.521011,
-    40.298904
-    ],
-    "electricity_consumption": 256081,
-    "fossil_fuel_consumption": 1647100,
-    "gdp": 2241207,
-    "natural_gas_consumption": 670970,
-    "state": "New Jersey",
-    "total_energy": 2241207,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 16179,
-    "coal_consumption": 263439,
-    "coordinates": [
-    -106.248482,
-    34.840515
-    ],
-    "electricity_consumption": 79085,
-    "fossil_fuel_consumption": 745336,
-    "gdp": 666540,
-    "natural_gas_consumption": 249815,
-    "state": "New Mexico",
-    "total_energy": 666540,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 122513,
-    "coal_consumption": 72914,
-    "coordinates": [
-    -74.948051,
-    42.165726
-    ],
-    "electricity_consumption": 488471,
-    "fossil_fuel_consumption": 2593481,
-    "gdp": 3503309,
-    "natural_gas_consumption": 1260950,
-    "state": "New York",
-    "total_energy": 3503309,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 142163,
-    "coal_consumption": 534713,
-    "coordinates": [
-    -79.806419,
-    35.630066
-    ],
-    "electricity_consumption": 437026,
-    "fossil_fuel_consumption": 1654828,
-    "gdp": 2481060,
-    "natural_gas_consumption": 367948,
-    "state": "North Carolina",
-    "total_energy": 2481060,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 25455,
-    "coal_consumption": 406344,
-    "coordinates": [
-    -99.784012,
-    47.528912
-    ],
-    "electricity_consumption": 50214,
-    "fossil_fuel_consumption": 678850,
-    "gdp": 552326,
-    "natural_gas_consumption": 77469,
-    "state": "North Dakota",
-    "total_energy": 552326,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 115615,
-    "coal_consumption": 1019140,
-    "coordinates": [
-    -82.764915,
-    40.388783
-    ],
-    "electricity_consumption": 520183,
-    "fossil_fuel_consumption": 2984206,
-    "gdp": 3655849,
-    "natural_gas_consumption": 869934,
-    "state": "Ohio",
-    "total_energy": 3655849,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 41310,
-    "coal_consumption": 327089,
-    "coordinates": [
-    -96.928917,
-    35.565342
-    ],
-    "electricity_consumption": 202470,
-    "fossil_fuel_consumption": 1567142,
-    "gdp": 1561913,
-    "natural_gas_consumption": 712411,
-    "state": "Oklahoma",
-    "total_energy": 1561913,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 61814,
-    "coal_consumption": 28259,
-    "coordinates": [
-    -122.070938,
-    44.572021
-    ],
-    "electricity_consumption": 159302,
-    "fossil_fuel_consumption": 575060,
-    "gdp": 975044,
-    "natural_gas_consumption": 220578,
-    "state": "Oregon",
-    "total_energy": 975044,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 141507,
-    "coal_consumption": 1093178,
-    "coordinates": [
-    -77.209755,
-    40.590752
-    ],
-    "electricity_consumption": 493750,
-    "fossil_fuel_consumption": 3324396,
-    "gdp": 3623997,
-    "natural_gas_consumption": 1079497,
-    "state": "Pennsylvania",
-    "total_energy": 3623997,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 5609,
-    "coal_consumption": 0,
-    "coordinates": [
-    -71.51178,
-    41.680893
-    ],
-    "electricity_consumption": 26301,
-    "fossil_fuel_consumption": 178036,
-    "gdp": 183879,
-    "natural_gas_consumption": 98435,
-    "state": "Rhode Island",
-    "total_energy": 183879,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 117091,
-    "coal_consumption": 298572,
-    "coordinates": [
-    -80.945007,
-    33.856892
-    ],
-    "electricity_consumption": 265389,
-    "fossil_fuel_consumption": 1012652,
-    "gdp": 1558766,
-    "natural_gas_consumption": 250482,
-    "state": "South Carolina",
-    "total_energy": 1558766,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 58812,
-    "coal_consumption": 35574,
-    "coordinates": [
-    -99.438828,
-    44.299782
-    ],
-    "electricity_consumption": 40037,
-    "fossil_fuel_consumption": 225164,
-    "gdp": 375950,
-    "natural_gas_consumption": 71501,
-    "state": "South Dakota",
-    "total_energy": 375950,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 96477,
-    "coal_consumption": 423086,
-    "coordinates": [
-    -86.692345,
-    35.747845
-    ],
-    "electricity_consumption": 328854,
-    "fossil_fuel_consumption": 1355061,
-    "gdp": 2080953,
-    "natural_gas_consumption": 281007,
-    "state": "Tennessee",
-    "total_energy": 2080953,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 200181,
-    "coal_consumption": 1498818,
-    "coordinates": [
-    -97.563461,
-    31.054487
-    ],
-    "electricity_consumption": 1245735,
-    "fossil_fuel_consumption": 11054960,
-    "gdp": 11931169,
-    "natural_gas_consumption": 3964121,
-    "state": "Texas",
-    "total_energy": 11931169,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 9560,
-    "coal_consumption": 322055,
-    "coordinates": [
-    -111.862434,
-    40.150032
-    ],
-    "electricity_consumption": 101416,
-    "fossil_fuel_consumption": 829676,
-    "gdp": 790154,
-    "natural_gas_consumption": 232630,
-    "state": "Utah",
-    "total_energy": 790154,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 16070,
-    "coal_consumption": 0,
-    "coordinates": [
-    -72.710686,
-    44.045876
-    ],
-    "electricity_consumption": 18803,
-    "fossil_fuel_consumption": 84141,
-    "gdp": 130412,
-    "natural_gas_consumption": 8290,
-    "state": "Vermont",
-    "total_energy": 130412,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 118265,
-    "coal_consumption": 222270,
-    "coordinates": [
-    -78.169968,
-    37.769337
-    ],
-    "electricity_consumption": 367796,
-    "fossil_fuel_consumption": 1432460,
-    "gdp": 2343908,
-    "natural_gas_consumption": 424050,
-    "state": "Virginia",
-    "total_energy": 2343908,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 112884,
-    "coal_consumption": 42656,
-    "coordinates": [
-    -121.490494,
-    47.400902
-    ],
-    "electricity_consumption": 315052,
-    "fossil_fuel_consumption": 1049562,
-    "gdp": 2037127,
-    "natural_gas_consumption": 271947,
-    "state": "Washington",
-    "total_energy": 2037127,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 24257,
-    "coal_consumption": 756716,
-    "coordinates": [
-    -80.954453,
-    38.491226
-    ],
-    "electricity_consumption": 105148,
-    "fossil_fuel_consumption": 1083056,
-    "gdp": 720985,
-    "natural_gas_consumption": 140133,
-    "state": "West Virginia",
-    "total_energy": 720985,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 133110,
-    "coal_consumption": 373281,
-    "coordinates": [
-    -89.616508,
-    44.268543
-    ],
-    "electricity_consumption": 234814,
-    "fossil_fuel_consumption": 1283286,
-    "gdp": 1721543,
-    "natural_gas_consumption": 410305,
-    "state": "Wisconsin",
-    "total_energy": 1721543,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 4165,
-    "coal_consumption": 490128,
-    "coordinates": [
-    -107.30249,
-    42.755966
-    ],
-    "electricity_consumption": 57906,
-    "fossil_fuel_consumption": 821266,
-    "gdp": 550182,
-    "natural_gas_consumption": 158546,
-    "state": "Wyoming",
-    "total_energy": 550182,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 819,
-    "coal_consumption": 77,
-    "coordinates": [
-    -77.026817,
-    38.897438
-    ],
-    "electricity_consumption": 38415,
-    "fossil_fuel_consumption": 49025,
-    "gdp": 172963,
-    "natural_gas_consumption": 29389,
-    "state": "District of Columbia",
-    "total_energy": 172963,
-    "year": 2012
-    },
-    {
-    "biomass_consumption": 4249844,
-    "coal_consumption": 17380923,
-    "coordinates": [
-    null,
-    null
-    ],
-    "electricity_consumption": 12606145,
-    "fossil_fuel_consumption": 77530807,
-    "gdp": 94411432,
-    "natural_gas_consumption": 26138351,
-    "state": "United States",
-    "total_energy": 94411432,
-    "year": 2012
-    },
-    {
     "biomass_consumption": 194432,
     "coal_consumption": 565051,
     "coordinates": [
@@ -2352,771 +57,6 @@
     "natural_gas_consumption": 625869,
     "state": "Alabama",
     "total_energy": 1919365,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 5168,
-    "coal_consumption": 14819,
-    "coordinates": [
-    -152.404419,
-    61.370716
-    ],
-    "electricity_consumption": 21387,
-    "fossil_fuel_consumption": 600660,
-    "gdp": 621107,
-    "natural_gas_consumption": 332963,
-    "state": "Alaska",
-    "total_energy": 621107,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 26492,
-    "coal_consumption": 454865,
-    "coordinates": [
-    -111.431221,
-    33.729759
-    ],
-    "electricity_consumption": 258159,
-    "fossil_fuel_consumption": 1289119,
-    "gdp": 1414383,
-    "natural_gas_consumption": 340375,
-    "state": "Arizona",
-    "total_energy": 1414383,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 95356,
-    "coal_consumption": 327099,
-    "coordinates": [
-    -92.373123,
-    34.969704
-    ],
-    "electricity_consumption": 159283,
-    "fossil_fuel_consumption": 936796,
-    "gdp": 1096438,
-    "natural_gas_consumption": 286352,
-    "state": "Arkansas",
-    "total_energy": 1096438,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 294412,
-    "coal_consumption": 38151,
-    "coordinates": [
-    -119.681564,
-    36.116203
-    ],
-    "electricity_consumption": 891666,
-    "fossil_fuel_consumption": 5755210,
-    "gdp": 7665241,
-    "natural_gas_consumption": 2483208,
-    "state": "California",
-    "total_energy": 7665241,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 35382,
-    "coal_consumption": 363532,
-    "coordinates": [
-    -105.311104,
-    39.059811
-    ],
-    "electricity_consumption": 182343,
-    "fossil_fuel_consumption": 1303825,
-    "gdp": 1470844,
-    "natural_gas_consumption": 487445,
-    "state": "Colorado",
-    "total_energy": 1470844,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 34153,
-    "coal_consumption": 7679,
-    "coordinates": [
-    -72.755371,
-    41.597782
-    ],
-    "electricity_consumption": 101761,
-    "fossil_fuel_consumption": 560141,
-    "gdp": 754901,
-    "natural_gas_consumption": 241509,
-    "state": "Connecticut",
-    "total_energy": 754901,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 5977,
-    "coal_consumption": 18254,
-    "coordinates": [
-    -75.507141,
-    39.318523
-    ],
-    "electricity_consumption": 38719,
-    "fossil_fuel_consumption": 213411,
-    "gdp": 273716,
-    "natural_gas_consumption": 100106,
-    "state": "Delaware",
-    "total_energy": 273716,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 253961,
-    "coal_consumption": 505155,
-    "coordinates": [
-    -81.686783,
-    27.766279
-    ],
-    "electricity_consumption": 757189,
-    "fossil_fuel_consumption": 3273949,
-    "gdp": 4076406,
-    "natural_gas_consumption": 1245287,
-    "state": "Florida",
-    "total_energy": 4076406,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 233509,
-    "coal_consumption": 426184,
-    "coordinates": [
-    -83.643074,
-    33.040619
-    ],
-    "electricity_consumption": 445257,
-    "fossil_fuel_consumption": 1928374,
-    "gdp": 2782782,
-    "natural_gas_consumption": 635287,
-    "state": "Georgia",
-    "total_energy": 2782782,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 11179,
-    "coal_consumption": 15306,
-    "coordinates": [
-    -157.498337,
-    21.094318
-    ],
-    "electricity_consumption": 32425,
-    "fossil_fuel_consumption": 252836,
-    "gdp": 281329,
-    "natural_gas_consumption": 2805,
-    "state": "Hawaii",
-    "total_energy": 281329,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 33286,
-    "coal_consumption": 7965,
-    "coordinates": [
-    -114.478828,
-    44.240459
-    ],
-    "electricity_consumption": 82598,
-    "fossil_fuel_consumption": 270907,
-    "gdp": 526613,
-    "natural_gas_consumption": 106356,
-    "state": "Idaho",
-    "total_energy": 526613,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 135697,
-    "coal_consumption": 1026925,
-    "coordinates": [
-    -88.986137,
-    40.349457
-    ],
-    "electricity_consumption": 483838,
-    "fossil_fuel_consumption": 3266060,
-    "gdp": 3991089,
-    "natural_gas_consumption": 1073734,
-    "state": "Illinois",
-    "total_energy": 3991089,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 108119,
-    "coal_consumption": 1198611,
-    "coordinates": [
-    -86.258278,
-    39.849426
-    ],
-    "electricity_consumption": 359923,
-    "fossil_fuel_consumption": 2632450,
-    "gdp": 2894764,
-    "natural_gas_consumption": 682842,
-    "state": "Indiana",
-    "total_energy": 2894764,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 227495,
-    "coal_consumption": 402402,
-    "coordinates": [
-    -93.210526,
-    42.011539
-    ],
-    "electricity_consumption": 159358,
-    "fossil_fuel_consumption": 1125533,
-    "gdp": 1518870,
-    "natural_gas_consumption": 331358,
-    "state": "Iowa",
-    "total_energy": 1518870,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 40855,
-    "coal_consumption": 326817,
-    "coordinates": [
-    -96.726486,
-    38.5266
-    ],
-    "electricity_consumption": 135959,
-    "fossil_fuel_consumption": 963626,
-    "gdp": 1105160,
-    "natural_gas_consumption": 288840,
-    "state": "Kansas",
-    "total_energy": 1105160,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 55168,
-    "coal_consumption": 914774,
-    "coordinates": [
-    -84.670067,
-    37.66814
-    ],
-    "electricity_consumption": 289214,
-    "fossil_fuel_consumption": 1737960,
-    "gdp": 1838898,
-    "natural_gas_consumption": 236423,
-    "state": "Kentucky",
-    "total_energy": 1838898,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 125789,
-    "coal_consumption": 228055,
-    "coordinates": [
-    -91.867805,
-    31.169546
-    ],
-    "electricity_consumption": 292777,
-    "fossil_fuel_consumption": 3785289,
-    "gdp": 4196622,
-    "natural_gas_consumption": 1499625,
-    "state": "Louisiana",
-    "total_energy": 4196622,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 116850,
-    "coal_consumption": 1657,
-    "coordinates": [
-    -69.381927,
-    44.693947
-    ],
-    "electricity_consumption": 40449,
-    "fossil_fuel_consumption": 253371,
-    "gdp": 409785,
-    "natural_gas_consumption": 66014,
-    "state": "Maine",
-    "total_energy": 409785,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 54874,
-    "coal_consumption": 183191,
-    "coordinates": [
-    -76.802101,
-    39.063946
-    ],
-    "electricity_consumption": 211201,
-    "fossil_fuel_consumption": 847590,
-    "gdp": 1395961,
-    "natural_gas_consumption": 207422,
-    "state": "Maryland",
-    "total_energy": 1395961,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 60267,
-    "coal_consumption": 42208,
-    "coordinates": [
-    -71.530106,
-    42.230171
-    ],
-    "electricity_consumption": 188564,
-    "fossil_fuel_consumption": 1030817,
-    "gdp": 1428433,
-    "natural_gas_consumption": 434893,
-    "state": "Massachusetts",
-    "total_energy": 1428433,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 148084,
-    "coal_consumption": 658172,
-    "coordinates": [
-    -84.536095,
-    43.326618
-    ],
-    "electricity_consumption": 351567,
-    "fossil_fuel_consumption": 2304114,
-    "gdp": 2832425,
-    "natural_gas_consumption": 828483,
-    "state": "Michigan",
-    "total_energy": 2832425,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 148505,
-    "coal_consumption": 267695,
-    "coordinates": [
-    -93.900192,
-    45.694454
-    ],
-    "electricity_consumption": 234214,
-    "fossil_fuel_consumption": 1328816,
-    "gdp": 1858816,
-    "natural_gas_consumption": 474891,
-    "state": "Minnesota",
-    "total_energy": 1858816,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 70216,
-    "coal_consumption": 97767,
-    "coordinates": [
-    -89.678696,
-    32.741646
-    ],
-    "electricity_consumption": 166444,
-    "fossil_fuel_consumption": 942046,
-    "gdp": 1138181,
-    "natural_gas_consumption": 427323,
-    "state": "Mississippi",
-    "total_energy": 1138181,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 71490,
-    "coal_consumption": 806549,
-    "coordinates": [
-    -92.288368,
-    38.456085
-    ],
-    "electricity_consumption": 284585,
-    "fossil_fuel_consumption": 1689057,
-    "gdp": 1847506,
-    "natural_gas_consumption": 280845,
-    "state": "Missouri",
-    "total_energy": 1847506,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 8632,
-    "coal_consumption": 166104,
-    "coordinates": [
-    -110.454353,
-    46.921925
-    ],
-    "electricity_consumption": 47922,
-    "fossil_fuel_consumption": 422138,
-    "gdp": 405934,
-    "natural_gas_consumption": 81900,
-    "state": "Montana",
-    "total_energy": 405934,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 107097,
-    "coal_consumption": 292956,
-    "coordinates": [
-    -98.268082,
-    41.12537
-    ],
-    "electricity_consumption": 104750,
-    "fossil_fuel_consumption": 705960,
-    "gdp": 871815,
-    "natural_gas_consumption": 178752,
-    "state": "Nebraska",
-    "total_energy": 871815,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 10021,
-    "coal_consumption": 64838,
-    "coordinates": [
-    -117.055374,
-    38.313515
-    ],
-    "electricity_consumption": 120141,
-    "fossil_fuel_consumption": 569355,
-    "gdp": 659568,
-    "natural_gas_consumption": 281972,
-    "state": "Nevada",
-    "total_energy": 659568,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 40393,
-    "coal_consumption": 16778,
-    "coordinates": [
-    -71.563896,
-    43.452492
-    ],
-    "electricity_consumption": 37680,
-    "fossil_fuel_consumption": 214922,
-    "gdp": 304538,
-    "natural_gas_consumption": 55649,
-    "state": "New Hampshire",
-    "total_energy": 304538,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 65208,
-    "coal_consumption": 25910,
-    "coordinates": [
-    -74.521011,
-    40.298904
-    ],
-    "electricity_consumption": 254680,
-    "fossil_fuel_consumption": 1704155,
-    "gdp": 2311685,
-    "natural_gas_consumption": 712948,
-    "state": "New Jersey",
-    "total_energy": 2311685,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 17990,
-    "coal_consumption": 256377,
-    "coordinates": [
-    -106.248482,
-    34.840515
-    ],
-    "electricity_consumption": 78698,
-    "fossil_fuel_consumption": 741402,
-    "gdp": 670257,
-    "natural_gas_consumption": 252867,
-    "state": "New Mexico",
-    "total_energy": 670257,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 129687,
-    "coal_consumption": 68707,
-    "coordinates": [
-    -74.948051,
-    42.165726
-    ],
-    "electricity_consumption": 504618,
-    "fossil_fuel_consumption": 2629451,
-    "gdp": 3626150,
-    "natural_gas_consumption": 1315282,
-    "state": "New York",
-    "total_energy": 3626150,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 148324,
-    "coal_consumption": 493771,
-    "coordinates": [
-    -79.806419,
-    35.630066
-    ],
-    "electricity_consumption": 442809,
-    "fossil_fuel_consumption": 1734549,
-    "gdp": 2530649,
-    "natural_gas_consumption": 445898,
-    "state": "North Carolina",
-    "total_energy": 2530649,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 26067,
-    "coal_consumption": 393193,
-    "coordinates": [
-    -99.784012,
-    47.528912
-    ],
-    "electricity_consumption": 54704,
-    "fossil_fuel_consumption": 701050,
-    "gdp": 594439,
-    "natural_gas_consumption": 88285,
-    "state": "North Dakota",
-    "total_energy": 594439,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 126808,
-    "coal_consumption": 1104486,
-    "coordinates": [
-    -82.764915,
-    40.388783
-    ],
-    "electricity_consumption": 512848,
-    "fossil_fuel_consumption": 3170468,
-    "gdp": 3739974,
-    "natural_gas_consumption": 954374,
-    "state": "Ohio",
-    "total_energy": 3739974,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 42616,
-    "coal_consumption": 335925,
-    "coordinates": [
-    -96.928917,
-    35.565342
-    ],
-    "electricity_consumption": 204478,
-    "fossil_fuel_consumption": 1537652,
-    "gdp": 1620837,
-    "natural_gas_consumption": 682277,
-    "state": "Oklahoma",
-    "total_energy": 1620837,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 71299,
-    "coal_consumption": 38900,
-    "coordinates": [
-    -122.070938,
-    44.572021
-    ],
-    "electricity_consumption": 162551,
-    "fossil_fuel_consumption": 608017,
-    "gdp": 991867,
-    "natural_gas_consumption": 244025,
-    "state": "Oregon",
-    "total_energy": 991867,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 154219,
-    "coal_consumption": 1126118,
-    "coordinates": [
-    -77.209755,
-    40.590752
-    ],
-    "electricity_consumption": 499018,
-    "fossil_fuel_consumption": 3472175,
-    "gdp": 3826959,
-    "natural_gas_consumption": 1176660,
-    "state": "Pennsylvania",
-    "total_energy": 3826959,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 5458,
-    "coal_consumption": 0,
-    "coordinates": [
-    -71.51178,
-    41.680893
-    ],
-    "electricity_consumption": 26549,
-    "fossil_fuel_consumption": 171472,
-    "gdp": 199165,
-    "natural_gas_consumption": 88274,
-    "state": "Rhode Island",
-    "total_energy": 199165,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 113934,
-    "coal_consumption": 257319,
-    "coordinates": [
-    -80.945007,
-    33.856892
-    ],
-    "electricity_consumption": 268190,
-    "fossil_fuel_consumption": 975757,
-    "gdp": 1590456,
-    "natural_gas_consumption": 236710,
-    "state": "South Carolina",
-    "total_energy": 1590456,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 61515,
-    "coal_consumption": 34246,
-    "coordinates": [
-    -99.438828,
-    44.299782
-    ],
-    "electricity_consumption": 41660,
-    "fossil_fuel_consumption": 231578,
-    "gdp": 389619,
-    "natural_gas_consumption": 83871,
-    "state": "South Dakota",
-    "total_energy": 389619,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 98518,
-    "coal_consumption": 399768,
-    "coordinates": [
-    -86.692345,
-    35.747845
-    ],
-    "electricity_consumption": 330773,
-    "fossil_fuel_consumption": 1344036,
-    "gdp": 2132508,
-    "natural_gas_consumption": 285308,
-    "state": "Tennessee",
-    "total_energy": 2132508,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 197910,
-    "coal_consumption": 1597357,
-    "coordinates": [
-    -97.563461,
-    31.054487
-    ],
-    "electricity_consumption": 1292524,
-    "fossil_fuel_consumption": 11616497,
-    "gdp": 12660976,
-    "natural_gas_consumption": 4143328,
-    "state": "Texas",
-    "total_energy": 12660976,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 10581,
-    "coal_consumption": 355230,
-    "coordinates": [
-    -111.862434,
-    40.150032
-    ],
-    "electricity_consumption": 103977,
-    "fossil_fuel_consumption": 897843,
-    "gdp": 831668,
-    "natural_gas_consumption": 258909,
-    "state": "Utah",
-    "total_energy": 831668,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 20794,
-    "coal_consumption": 0,
-    "coordinates": [
-    -72.710686,
-    44.045876
-    ],
-    "electricity_consumption": 19065,
-    "fossil_fuel_consumption": 89119,
-    "gdp": 137527,
-    "natural_gas_consumption": 9746,
-    "state": "Vermont",
-    "total_energy": 137527,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 132138,
-    "coal_consumption": 290508,
-    "coordinates": [
-    -78.169968,
-    37.769337
-    ],
-    "electricity_consumption": 377066,
-    "fossil_fuel_consumption": 1512226,
-    "gdp": 2414477,
-    "natural_gas_consumption": 435247,
-    "state": "Virginia",
-    "total_energy": 2414477,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 119013,
-    "coal_consumption": 74955,
-    "coordinates": [
-    -121.490494,
-    47.400902
-    ],
-    "electricity_consumption": 316916,
-    "fossil_fuel_consumption": 1113069,
-    "gdp": 2036309,
-    "natural_gas_consumption": 327840,
-    "state": "Washington",
-    "total_energy": 2036309,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 30008,
-    "coal_consumption": 771188,
-    "coordinates": [
-    -80.954453,
-    38.491226
-    ],
-    "electricity_consumption": 107136,
-    "fossil_fuel_consumption": 1113141,
-    "gdp": 743612,
-    "natural_gas_consumption": 153875,
-    "state": "West Virginia",
-    "total_energy": 743612,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 134199,
-    "coal_consumption": 454554,
-    "coordinates": [
-    -89.616508,
-    44.268543
-    ],
-    "electricity_consumption": 235851,
-    "fossil_fuel_consumption": 1418732,
-    "gdp": 1813458,
-    "natural_gas_consumption": 453608,
-    "state": "Wisconsin",
-    "total_energy": 1813458,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 4694,
-    "coal_consumption": 520699,
-    "coordinates": [
-    -107.30249,
-    42.755966
-    ],
-    "electricity_consumption": 58187,
-    "fossil_fuel_consumption": 839683,
-    "gdp": 539146,
-    "natural_gas_consumption": 155960,
-    "state": "Wyoming",
-    "total_energy": 539146,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 855,
-    "coal_consumption": 4,
-    "coordinates": [
-    -77.026817,
-    38.897438
-    ],
-    "electricity_consumption": 37824,
-    "fossil_fuel_consumption": 53357,
-    "gdp": 175560,
-    "natural_gas_consumption": 34315,
-    "state": "District of Columbia",
-    "total_energy": 175560,
-    "year": 2013
-    },
-    {
-    "biomass_consumption": 4464695,
-    "coal_consumption": 18038771,
-    "coordinates": [
-    null,
-    null
-    ],
-    "electricity_consumption": 12709249,
-    "fossil_fuel_consumption": 79551830,
-    "gdp": 97141368,
-    "natural_gas_consumption": 26858134,
-    "state": "United States",
-    "total_energy": 97141368,
     "year": 2013
     },
     {
@@ -3135,6 +75,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 4178,
+    "coal_consumption": 14548,
+    "coordinates": [
+    -152.404419,
+    61.370716
+    ],
+    "electricity_consumption": 21315,
+    "fossil_fuel_consumption": 634777,
+    "gdp": 653221,
+    "natural_gas_consumption": 334978,
+    "state": "Alaska",
+    "total_energy": 653221,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 4247,
+    "coal_consumption": 15481,
+    "coordinates": [
+    -152.404419,
+    61.370716
+    ],
+    "electricity_consumption": 21562,
+    "fossil_fuel_consumption": 635981,
+    "gdp": 653637,
+    "natural_gas_consumption": 339819,
+    "state": "Alaska",
+    "total_energy": 653637,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 4032,
+    "coal_consumption": 15521,
+    "coordinates": [
+    -152.404419,
+    61.370716
+    ],
+    "electricity_consumption": 21893,
+    "fossil_fuel_consumption": 629768,
+    "gdp": 649341,
+    "natural_gas_consumption": 347228,
+    "state": "Alaska",
+    "total_energy": 649341,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 5168,
+    "coal_consumption": 14819,
+    "coordinates": [
+    -152.404419,
+    61.370716
+    ],
+    "electricity_consumption": 21387,
+    "fossil_fuel_consumption": 600660,
+    "gdp": 621107,
+    "natural_gas_consumption": 332963,
+    "state": "Alaska",
+    "total_energy": 621107,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 5476,
     "coal_consumption": 18225,
     "coordinates": [
@@ -3148,6 +148,66 @@
     "state": "Alaska",
     "total_energy": 603119,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 29289,
+    "coal_consumption": 457909,
+    "coordinates": [
+    -111.431221,
+    33.729759
+    ],
+    "electricity_consumption": 248506,
+    "fossil_fuel_consumption": 1292346,
+    "gdp": 1383531,
+    "natural_gas_consumption": 336208,
+    "state": "Arizona",
+    "total_energy": 1383531,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 28565,
+    "coal_consumption": 459909,
+    "coordinates": [
+    -111.431221,
+    33.729759
+    ],
+    "electricity_consumption": 255708,
+    "fossil_fuel_consumption": 1253992,
+    "gdp": 1424944,
+    "natural_gas_consumption": 293134,
+    "state": "Arizona",
+    "total_energy": 1424944,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 27267,
+    "coal_consumption": 420570,
+    "coordinates": [
+    -111.431221,
+    33.729759
+    ],
+    "electricity_consumption": 256116,
+    "fossil_fuel_consumption": 1248032,
+    "gdp": 1395839,
+    "natural_gas_consumption": 339043,
+    "state": "Arizona",
+    "total_energy": 1395839,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 26492,
+    "coal_consumption": 454865,
+    "coordinates": [
+    -111.431221,
+    33.729759
+    ],
+    "electricity_consumption": 258159,
+    "fossil_fuel_consumption": 1289119,
+    "gdp": 1414383,
+    "natural_gas_consumption": 340375,
+    "state": "Arizona",
+    "total_energy": 1414383,
+    "year": 2013
     },
     {
     "biomass_consumption": 31481,
@@ -3165,6 +225,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 94865,
+    "coal_consumption": 293689,
+    "coordinates": [
+    -92.373123,
+    34.969704
+    ],
+    "electricity_consumption": 164439,
+    "fossil_fuel_consumption": 909827,
+    "gdp": 1120632,
+    "natural_gas_consumption": 274774,
+    "state": "Arkansas",
+    "total_energy": 1120632,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 97160,
+    "coal_consumption": 306119,
+    "coordinates": [
+    -92.373123,
+    34.969704
+    ],
+    "electricity_consumption": 163530,
+    "fossil_fuel_consumption": 932878,
+    "gdp": 1122544,
+    "natural_gas_consumption": 288906,
+    "state": "Arkansas",
+    "total_energy": 1122544,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 96248,
+    "coal_consumption": 296732,
+    "coordinates": [
+    -92.373123,
+    34.969704
+    ],
+    "electricity_consumption": 159885,
+    "fossil_fuel_consumption": 918078,
+    "gdp": 1067642,
+    "natural_gas_consumption": 300572,
+    "state": "Arkansas",
+    "total_energy": 1067642,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 95356,
+    "coal_consumption": 327099,
+    "coordinates": [
+    -92.373123,
+    34.969704
+    ],
+    "electricity_consumption": 159283,
+    "fossil_fuel_consumption": 936796,
+    "gdp": 1096438,
+    "natural_gas_consumption": 286352,
+    "state": "Arkansas",
+    "total_energy": 1096438,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 95963,
     "coal_consumption": 339214,
     "coordinates": [
@@ -3178,6 +298,66 @@
     "state": "Arkansas",
     "total_energy": 1114409,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 280124,
+    "coal_consumption": 54972,
+    "coordinates": [
+    -119.681564,
+    36.116203
+    ],
+    "electricity_consumption": 882107,
+    "fossil_fuel_consumption": 5741492,
+    "gdp": 7760629,
+    "natural_gas_consumption": 2325411,
+    "state": "California",
+    "total_energy": 7760629,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 282581,
+    "coal_consumption": 55264,
+    "coordinates": [
+    -119.681564,
+    36.116203
+    ],
+    "electricity_consumption": 893745,
+    "fossil_fuel_consumption": 5550201,
+    "gdp": 7777115,
+    "natural_gas_consumption": 2196252,
+    "state": "California",
+    "total_energy": 7777115,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 280963,
+    "coal_consumption": 43832,
+    "coordinates": [
+    -119.681564,
+    36.116203
+    ],
+    "electricity_consumption": 885544,
+    "fossil_fuel_consumption": 5687343,
+    "gdp": 7564063,
+    "natural_gas_consumption": 2456371,
+    "state": "California",
+    "total_energy": 7564063,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 294412,
+    "coal_consumption": 38151,
+    "coordinates": [
+    -119.681564,
+    36.116203
+    ],
+    "electricity_consumption": 891666,
+    "fossil_fuel_consumption": 5755210,
+    "gdp": 7665241,
+    "natural_gas_consumption": 2483208,
+    "state": "California",
+    "total_energy": 7665241,
+    "year": 2013
     },
     {
     "biomass_consumption": 298473,
@@ -3195,6 +375,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 28210,
+    "coal_consumption": 382623,
+    "coordinates": [
+    -105.311104,
+    39.059811
+    ],
+    "electricity_consumption": 180555,
+    "fossil_fuel_consumption": 1370758,
+    "gdp": 1513547,
+    "natural_gas_consumption": 510877,
+    "state": "Colorado",
+    "total_energy": 1513547,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 30883,
+    "coal_consumption": 368871,
+    "coordinates": [
+    -105.311104,
+    39.059811
+    ],
+    "electricity_consumption": 182400,
+    "fossil_fuel_consumption": 1304903,
+    "gdp": 1470445,
+    "natural_gas_consumption": 481614,
+    "state": "Colorado",
+    "total_energy": 1470445,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 30680,
+    "coal_consumption": 370085,
+    "coordinates": [
+    -105.311104,
+    39.059811
+    ],
+    "electricity_consumption": 183174,
+    "fossil_fuel_consumption": 1282352,
+    "gdp": 1440781,
+    "natural_gas_consumption": 461056,
+    "state": "Colorado",
+    "total_energy": 1440781,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 35382,
+    "coal_consumption": 363532,
+    "coordinates": [
+    -105.311104,
+    39.059811
+    ],
+    "electricity_consumption": 182343,
+    "fossil_fuel_consumption": 1303825,
+    "gdp": 1470844,
+    "natural_gas_consumption": 487445,
+    "state": "Colorado",
+    "total_energy": 1470844,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 36073,
     "coal_consumption": 350526,
     "coordinates": [
@@ -3208,6 +448,66 @@
     "state": "Colorado",
     "total_energy": 1477177,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 35716,
+    "coal_consumption": 28711,
+    "coordinates": [
+    -72.755371,
+    41.597782
+    ],
+    "electricity_consumption": 103697,
+    "fossil_fuel_consumption": 562060,
+    "gdp": 764970,
+    "natural_gas_consumption": 203814,
+    "state": "Connecticut",
+    "total_energy": 764970,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 33958,
+    "coal_consumption": 6081,
+    "coordinates": [
+    -72.755371,
+    41.597782
+    ],
+    "electricity_consumption": 101879,
+    "fossil_fuel_consumption": 557282,
+    "gdp": 739130,
+    "natural_gas_consumption": 236016,
+    "state": "Connecticut",
+    "total_energy": 739130,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 32800,
+    "coal_consumption": 9290,
+    "coordinates": [
+    -72.755371,
+    41.597782
+    ],
+    "electricity_consumption": 100628,
+    "fossil_fuel_consumption": 544358,
+    "gdp": 725019,
+    "natural_gas_consumption": 236260,
+    "state": "Connecticut",
+    "total_energy": 725019,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 34153,
+    "coal_consumption": 7679,
+    "coordinates": [
+    -72.755371,
+    41.597782
+    ],
+    "electricity_consumption": 101761,
+    "fossil_fuel_consumption": 560141,
+    "gdp": 754901,
+    "natural_gas_consumption": 241509,
+    "state": "Connecticut",
+    "total_energy": 754901,
+    "year": 2013
     },
     {
     "biomass_consumption": 36011,
@@ -3225,6 +525,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 6901,
+    "coal_consumption": 30253,
+    "coordinates": [
+    -75.507141,
+    39.318523
+    ],
+    "electricity_consumption": 39599,
+    "fossil_fuel_consumption": 171414,
+    "gdp": 250212,
+    "natural_gas_consumption": 56087,
+    "state": "Delaware",
+    "total_energy": 250212,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 6781,
+    "coal_consumption": 17881,
+    "coordinates": [
+    -75.507141,
+    39.318523
+    ],
+    "electricity_consumption": 39181,
+    "fossil_fuel_consumption": 201518,
+    "gdp": 272568,
+    "natural_gas_consumption": 81710,
+    "state": "Delaware",
+    "total_energy": 272568,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 5972,
+    "coal_consumption": 17384,
+    "coordinates": [
+    -75.507141,
+    39.318523
+    ],
+    "electricity_consumption": 39304,
+    "fossil_fuel_consumption": 221203,
+    "gdp": 273728,
+    "natural_gas_consumption": 104421,
+    "state": "Delaware",
+    "total_energy": 273728,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 5977,
+    "coal_consumption": 18254,
+    "coordinates": [
+    -75.507141,
+    39.318523
+    ],
+    "electricity_consumption": 38719,
+    "fossil_fuel_consumption": 213411,
+    "gdp": 273716,
+    "natural_gas_consumption": 100106,
+    "state": "Delaware",
+    "total_energy": 273716,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 6249,
     "coal_consumption": 10238,
     "coordinates": [
@@ -3238,6 +598,66 @@
     "state": "Delaware",
     "total_energy": 274013,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 246789,
+    "coal_consumption": 637416,
+    "coordinates": [
+    -81.686783,
+    27.766279
+    ],
+    "electricity_consumption": 788887,
+    "fossil_fuel_consumption": 3491560,
+    "gdp": 4282673,
+    "natural_gas_consumption": 1180462,
+    "state": "Florida",
+    "total_energy": 4282673,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 245557,
+    "coal_consumption": 552730,
+    "coordinates": [
+    -81.686783,
+    27.766279
+    ],
+    "electricity_consumption": 768009,
+    "fossil_fuel_consumption": 3357837,
+    "gdp": 4141711,
+    "natural_gas_consumption": 1235953,
+    "state": "Florida",
+    "total_energy": 4141711,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 244646,
+    "coal_consumption": 482984,
+    "coordinates": [
+    -81.686783,
+    27.766279
+    ],
+    "electricity_consumption": 752941,
+    "fossil_fuel_consumption": 3327632,
+    "gdp": 4029903,
+    "natural_gas_consumption": 1348390,
+    "state": "Florida",
+    "total_energy": 4029903,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 253961,
+    "coal_consumption": 505155,
+    "coordinates": [
+    -81.686783,
+    27.766279
+    ],
+    "electricity_consumption": 757189,
+    "fossil_fuel_consumption": 3273949,
+    "gdp": 4076406,
+    "natural_gas_consumption": 1245287,
+    "state": "Florida",
+    "total_energy": 4076406,
+    "year": 2013
     },
     {
     "biomass_consumption": 250043,
@@ -3255,6 +675,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 204742,
+    "coal_consumption": 767906,
+    "coordinates": [
+    -83.643074,
+    33.040619
+    ],
+    "electricity_consumption": 479971,
+    "fossil_fuel_consumption": 2324200,
+    "gdp": 3100144,
+    "natural_gas_consumption": 541691,
+    "state": "Georgia",
+    "total_energy": 3100144,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 210583,
+    "coal_consumption": 634756,
+    "coordinates": [
+    -83.643074,
+    33.040619
+    ],
+    "electricity_consumption": 465298,
+    "fossil_fuel_consumption": 2142535,
+    "gdp": 2982837,
+    "natural_gas_consumption": 532310,
+    "state": "Georgia",
+    "total_energy": 2982837,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 207725,
+    "coal_consumption": 435546,
+    "coordinates": [
+    -83.643074,
+    33.040619
+    ],
+    "electricity_consumption": 446900,
+    "fossil_fuel_consumption": 1946907,
+    "gdp": 2767491,
+    "natural_gas_consumption": 625008,
+    "state": "Georgia",
+    "total_energy": 2767491,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 233509,
+    "coal_consumption": 426184,
+    "coordinates": [
+    -83.643074,
+    33.040619
+    ],
+    "electricity_consumption": 445257,
+    "fossil_fuel_consumption": 1928374,
+    "gdp": 2782782,
+    "natural_gas_consumption": 635287,
+    "state": "Georgia",
+    "total_energy": 2782782,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 252985,
     "coal_consumption": 482657,
     "coordinates": [
@@ -3268,6 +748,66 @@
     "state": "Georgia",
     "total_energy": 2850990,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 10448,
+    "coal_consumption": 17117,
+    "coordinates": [
+    -157.498337,
+    21.094318
+    ],
+    "electricity_consumption": 34176,
+    "fossil_fuel_consumption": 259018,
+    "gdp": 278046,
+    "natural_gas_consumption": 2732,
+    "state": "Hawaii",
+    "total_energy": 278046,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 10550,
+    "coal_consumption": 16080,
+    "coordinates": [
+    -157.498337,
+    21.094318
+    ],
+    "electricity_consumption": 33989,
+    "fossil_fuel_consumption": 265505,
+    "gdp": 287113,
+    "natural_gas_consumption": 2744,
+    "state": "Hawaii",
+    "total_energy": 287113,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 9604,
+    "coal_consumption": 16572,
+    "coordinates": [
+    -157.498337,
+    21.094318
+    ],
+    "electricity_consumption": 32889,
+    "fossil_fuel_consumption": 256754,
+    "gdp": 280171,
+    "natural_gas_consumption": 2813,
+    "state": "Hawaii",
+    "total_energy": 280171,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 11179,
+    "coal_consumption": 15306,
+    "coordinates": [
+    -157.498337,
+    21.094318
+    ],
+    "electricity_consumption": 32425,
+    "fossil_fuel_consumption": 252836,
+    "gdp": 281329,
+    "natural_gas_consumption": 2805,
+    "state": "Hawaii",
+    "total_energy": 281329,
+    "year": 2013
     },
     {
     "biomass_consumption": 10950,
@@ -3285,6 +825,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 33561,
+    "coal_consumption": 8527,
+    "coordinates": [
+    -114.478828,
+    44.240459
+    ],
+    "electricity_consumption": 77786,
+    "fossil_fuel_consumption": 250946,
+    "gdp": 516120,
+    "natural_gas_consumption": 85075,
+    "state": "Idaho",
+    "total_energy": 516120,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 31192,
+    "coal_consumption": 7846,
+    "coordinates": [
+    -114.478828,
+    44.240459
+    ],
+    "electricity_consumption": 79403,
+    "fossil_fuel_consumption": 247718,
+    "gdp": 516978,
+    "natural_gas_consumption": 83947,
+    "state": "Idaho",
+    "total_energy": 516978,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 31038,
+    "coal_consumption": 5186,
+    "coordinates": [
+    -114.478828,
+    44.240459
+    ],
+    "electricity_consumption": 80905,
+    "fossil_fuel_consumption": 248082,
+    "gdp": 510869,
+    "natural_gas_consumption": 90339,
+    "state": "Idaho",
+    "total_energy": 510869,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 33286,
+    "coal_consumption": 7965,
+    "coordinates": [
+    -114.478828,
+    44.240459
+    ],
+    "electricity_consumption": 82598,
+    "fossil_fuel_consumption": 270907,
+    "gdp": 526613,
+    "natural_gas_consumption": 106356,
+    "state": "Idaho",
+    "total_energy": 526613,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 40040,
     "coal_consumption": 7472,
     "coordinates": [
@@ -3298,6 +898,66 @@
     "state": "Idaho",
     "total_energy": 519935,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 147792,
+    "coal_consumption": 1069037,
+    "coordinates": [
+    -88.986137,
+    40.349457
+    ],
+    "electricity_consumption": 493923,
+    "fossil_fuel_consumption": 3225698,
+    "gdp": 3955091,
+    "natural_gas_consumption": 974412,
+    "state": "Illinois",
+    "total_energy": 3955091,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 133873,
+    "coal_consumption": 1052224,
+    "coordinates": [
+    -88.986137,
+    40.349457
+    ],
+    "electricity_consumption": 487526,
+    "fossil_fuel_consumption": 3212010,
+    "gdp": 3937616,
+    "natural_gas_consumption": 997722,
+    "state": "Illinois",
+    "total_energy": 3937616,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 132247,
+    "coal_consumption": 969294,
+    "coordinates": [
+    -88.986137,
+    40.349457
+    ],
+    "electricity_consumption": 489758,
+    "fossil_fuel_consumption": 3044403,
+    "gdp": 3820547,
+    "natural_gas_consumption": 950711,
+    "state": "Illinois",
+    "total_energy": 3820547,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 135697,
+    "coal_consumption": 1026925,
+    "coordinates": [
+    -88.986137,
+    40.349457
+    ],
+    "electricity_consumption": 483838,
+    "fossil_fuel_consumption": 3266060,
+    "gdp": 3991089,
+    "natural_gas_consumption": 1073734,
+    "state": "Illinois",
+    "total_energy": 3991089,
+    "year": 2013
     },
     {
     "biomass_consumption": 138402,
@@ -3315,6 +975,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 98571,
+    "coal_consumption": 1449371,
+    "coordinates": [
+    -86.258278,
+    39.849426
+    ],
+    "electricity_consumption": 361653,
+    "fossil_fuel_consumption": 2770123,
+    "gdp": 2863396,
+    "natural_gas_consumption": 580752,
+    "state": "Indiana",
+    "total_energy": 2863396,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 105527,
+    "coal_consumption": 1333442,
+    "coordinates": [
+    -86.258278,
+    39.849426
+    ],
+    "electricity_consumption": 361051,
+    "fossil_fuel_consumption": 2712351,
+    "gdp": 2847188,
+    "natural_gas_consumption": 638237,
+    "state": "Indiana",
+    "total_energy": 2847188,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 103946,
+    "coal_consumption": 1193465,
+    "coordinates": [
+    -86.258278,
+    39.849426
+    ],
+    "electricity_consumption": 358852,
+    "fossil_fuel_consumption": 2562415,
+    "gdp": 2770158,
+    "natural_gas_consumption": 657719,
+    "state": "Indiana",
+    "total_energy": 2770158,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 108119,
+    "coal_consumption": 1198611,
+    "coordinates": [
+    -86.258278,
+    39.849426
+    ],
+    "electricity_consumption": 359923,
+    "fossil_fuel_consumption": 2632450,
+    "gdp": 2894764,
+    "natural_gas_consumption": 682842,
+    "state": "Indiana",
+    "total_energy": 2894764,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 112781,
     "coal_consumption": 1221492,
     "coordinates": [
@@ -3328,6 +1048,66 @@
     "state": "Indiana",
     "total_energy": 2931630,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 239261,
+    "coal_consumption": 493794,
+    "coordinates": [
+    -93.210526,
+    42.011539
+    ],
+    "electricity_consumption": 155059,
+    "fossil_fuel_consumption": 1187456,
+    "gdp": 1499729,
+    "natural_gas_consumption": 312941,
+    "state": "Iowa",
+    "total_energy": 1499729,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 231401,
+    "coal_consumption": 463138,
+    "coordinates": [
+    -93.210526,
+    42.011539
+    ],
+    "electricity_consumption": 155774,
+    "fossil_fuel_consumption": 1155743,
+    "gdp": 1498973,
+    "natural_gas_consumption": 309672,
+    "state": "Iowa",
+    "total_energy": 1498973,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 216577,
+    "coal_consumption": 422595,
+    "coordinates": [
+    -93.210526,
+    42.011539
+    ],
+    "electricity_consumption": 155959,
+    "fossil_fuel_consumption": 1092732,
+    "gdp": 1440053,
+    "natural_gas_consumption": 299315,
+    "state": "Iowa",
+    "total_energy": 1440053,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 227495,
+    "coal_consumption": 402402,
+    "coordinates": [
+    -93.210526,
+    42.011539
+    ],
+    "electricity_consumption": 159358,
+    "fossil_fuel_consumption": 1125533,
+    "gdp": 1518870,
+    "natural_gas_consumption": 331358,
+    "state": "Iowa",
+    "total_energy": 1518870,
+    "year": 2013
     },
     {
     "biomass_consumption": 241138,
@@ -3345,6 +1125,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 39348,
+    "coal_consumption": 359908,
+    "coordinates": [
+    -96.726486,
+    38.5266
+    ],
+    "electricity_consumption": 137915,
+    "fossil_fuel_consumption": 997849,
+    "gdp": 1117631,
+    "natural_gas_consumption": 280413,
+    "state": "Kansas",
+    "total_energy": 1117631,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 41131,
+    "coal_consumption": 346521,
+    "coordinates": [
+    -96.726486,
+    38.5266
+    ],
+    "electricity_consumption": 139074,
+    "fossil_fuel_consumption": 970721,
+    "gdp": 1104843,
+    "natural_gas_consumption": 285318,
+    "state": "Kansas",
+    "total_energy": 1104843,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 38492,
+    "coal_consumption": 307585,
+    "coordinates": [
+    -96.726486,
+    38.5266
+    ],
+    "electricity_consumption": 137481,
+    "fossil_fuel_consumption": 913457,
+    "gdp": 1075435,
+    "natural_gas_consumption": 268086,
+    "state": "Kansas",
+    "total_energy": 1075435,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 40855,
+    "coal_consumption": 326817,
+    "coordinates": [
+    -96.726486,
+    38.5266
+    ],
+    "electricity_consumption": 135959,
+    "fossil_fuel_consumption": 963626,
+    "gdp": 1105160,
+    "natural_gas_consumption": 288840,
+    "state": "Kansas",
+    "total_energy": 1105160,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 45862,
     "coal_consumption": 316572,
     "coordinates": [
@@ -3358,6 +1198,66 @@
     "state": "Kansas",
     "total_energy": 1132354,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 51017,
+    "coal_consumption": 1009823,
+    "coordinates": [
+    -84.670067,
+    37.66814
+    ],
+    "electricity_consumption": 319259,
+    "fossil_fuel_consumption": 1874296,
+    "gdp": 1978527,
+    "natural_gas_consumption": 239062,
+    "state": "Kentucky",
+    "total_energy": 1978527,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 51474,
+    "coal_consumption": 1010623,
+    "coordinates": [
+    -84.670067,
+    37.66814
+    ],
+    "electricity_consumption": 305505,
+    "fossil_fuel_consumption": 1846216,
+    "gdp": 1903208,
+    "natural_gas_consumption": 229056,
+    "state": "Kentucky",
+    "total_energy": 1903208,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 49735,
+    "coal_consumption": 909705,
+    "coordinates": [
+    -84.670067,
+    37.66814
+    ],
+    "electricity_consumption": 303833,
+    "fossil_fuel_consumption": 1735259,
+    "gdp": 1868483,
+    "natural_gas_consumption": 232702,
+    "state": "Kentucky",
+    "total_energy": 1868483,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 55168,
+    "coal_consumption": 914774,
+    "coordinates": [
+    -84.670067,
+    37.66814
+    ],
+    "electricity_consumption": 289214,
+    "fossil_fuel_consumption": 1737960,
+    "gdp": 1838898,
+    "natural_gas_consumption": 236423,
+    "state": "Kentucky",
+    "total_energy": 1838898,
+    "year": 2013
     },
     {
     "biomass_consumption": 57195,
@@ -3375,6 +1275,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 112227,
+    "coal_consumption": 259750,
+    "coordinates": [
+    -91.867805,
+    31.169546
+    ],
+    "electricity_consumption": 290292,
+    "fossil_fuel_consumption": 3974821,
+    "gdp": 4385758,
+    "natural_gas_consumption": 1483201,
+    "state": "Louisiana",
+    "total_energy": 4385758,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 113514,
+    "coal_consumption": 269993,
+    "coordinates": [
+    -91.867805,
+    31.169546
+    ],
+    "electricity_consumption": 294691,
+    "fossil_fuel_consumption": 4015581,
+    "gdp": 4388867,
+    "natural_gas_consumption": 1536147,
+    "state": "Louisiana",
+    "total_energy": 4388867,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 113460,
+    "coal_consumption": 238811,
+    "coordinates": [
+    -91.867805,
+    31.169546
+    ],
+    "electricity_consumption": 289101,
+    "fossil_fuel_consumption": 3886754,
+    "gdp": 4255161,
+    "natural_gas_consumption": 1586439,
+    "state": "Louisiana",
+    "total_energy": 4255161,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 125789,
+    "coal_consumption": 228055,
+    "coordinates": [
+    -91.867805,
+    31.169546
+    ],
+    "electricity_consumption": 292777,
+    "fossil_fuel_consumption": 3785289,
+    "gdp": 4196622,
+    "natural_gas_consumption": 1499625,
+    "state": "Louisiana",
+    "total_energy": 4196622,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 144404,
     "coal_consumption": 209973,
     "coordinates": [
@@ -3388,6 +1348,66 @@
     "state": "Louisiana",
     "total_energy": 4279443,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 114477,
+    "coal_consumption": 2279,
+    "coordinates": [
+    -69.381927,
+    44.693947
+    ],
+    "electricity_consumption": 39346,
+    "fossil_fuel_consumption": 277354,
+    "gdp": 415065,
+    "natural_gas_consumption": 80988,
+    "state": "Maine",
+    "total_energy": 415065,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 113899,
+    "coal_consumption": 1542,
+    "coordinates": [
+    -69.381927,
+    44.693947
+    ],
+    "electricity_consumption": 38949,
+    "fossil_fuel_consumption": 268118,
+    "gdp": 413893,
+    "natural_gas_consumption": 75061,
+    "state": "Maine",
+    "total_energy": 413893,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 113103,
+    "coal_consumption": 1299,
+    "coordinates": [
+    -69.381927,
+    44.693947
+    ],
+    "electricity_consumption": 39446,
+    "fossil_fuel_consumption": 244896,
+    "gdp": 399670,
+    "natural_gas_consumption": 70451,
+    "state": "Maine",
+    "total_energy": 399670,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 116850,
+    "coal_consumption": 1657,
+    "coordinates": [
+    -69.381927,
+    44.693947
+    ],
+    "electricity_consumption": 40449,
+    "fossil_fuel_consumption": 253371,
+    "gdp": 409785,
+    "natural_gas_consumption": 66014,
+    "state": "Maine",
+    "total_energy": 409785,
+    "year": 2013
     },
     {
     "biomass_consumption": 111979,
@@ -3405,6 +1425,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 51683,
+    "coal_consumption": 266067,
+    "coordinates": [
+    -76.802101,
+    39.063946
+    ],
+    "electricity_consumption": 222925,
+    "fossil_fuel_consumption": 963419,
+    "gdp": 1464503,
+    "natural_gas_consumption": 217744,
+    "state": "Maryland",
+    "total_energy": 1464503,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 49917,
+    "coal_consumption": 241190,
+    "coordinates": [
+    -76.802101,
+    39.063946
+    ],
+    "electricity_consumption": 217002,
+    "fossil_fuel_consumption": 900614,
+    "gdp": 1410012,
+    "natural_gas_consumption": 199223,
+    "state": "Maryland",
+    "total_energy": 1410012,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 49822,
+    "coal_consumption": 192334,
+    "coordinates": [
+    -76.802101,
+    39.063946
+    ],
+    "electricity_consumption": 210908,
+    "fossil_fuel_consumption": 857053,
+    "gdp": 1368600,
+    "natural_gas_consumption": 216678,
+    "state": "Maryland",
+    "total_energy": 1368600,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 54874,
+    "coal_consumption": 183191,
+    "coordinates": [
+    -76.802101,
+    39.063946
+    ],
+    "electricity_consumption": 211201,
+    "fossil_fuel_consumption": 847590,
+    "gdp": 1395961,
+    "natural_gas_consumption": 207422,
+    "state": "Maryland",
+    "total_energy": 1395961,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 53814,
     "coal_consumption": 201220,
     "coordinates": [
@@ -3418,6 +1498,66 @@
     "state": "Maryland",
     "total_energy": 1400614,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 59866,
+    "coal_consumption": 83850,
+    "coordinates": [
+    -71.530106,
+    42.230171
+    ],
+    "electricity_consumption": 194905,
+    "fossil_fuel_consumption": 1107941,
+    "gdp": 1416119,
+    "natural_gas_consumption": 447429,
+    "state": "Massachusetts",
+    "total_energy": 1416119,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 59074,
+    "coal_consumption": 42963,
+    "coordinates": [
+    -71.530106,
+    42.230171
+    ],
+    "electricity_consumption": 189605,
+    "fossil_fuel_consumption": 1073354,
+    "gdp": 1397164,
+    "natural_gas_consumption": 464018,
+    "state": "Massachusetts",
+    "total_energy": 1397164,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 57348,
+    "coal_consumption": 24036,
+    "coordinates": [
+    -71.530106,
+    42.230171
+    ],
+    "electricity_consumption": 188729,
+    "fossil_fuel_consumption": 982397,
+    "gdp": 1363282,
+    "natural_gas_consumption": 430921,
+    "state": "Massachusetts",
+    "total_energy": 1363282,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 60267,
+    "coal_consumption": 42208,
+    "coordinates": [
+    -71.530106,
+    42.230171
+    ],
+    "electricity_consumption": 188564,
+    "fossil_fuel_consumption": 1030817,
+    "gdp": 1428433,
+    "natural_gas_consumption": 434893,
+    "state": "Massachusetts",
+    "total_energy": 1428433,
+    "year": 2013
     },
     {
     "biomass_consumption": 61735,
@@ -3435,6 +1575,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 129422,
+    "coal_consumption": 749285,
+    "coordinates": [
+    -84.536095,
+    43.326618
+    ],
+    "electricity_consumption": 353651,
+    "fossil_fuel_consumption": 2305457,
+    "gdp": 2753536,
+    "natural_gas_consumption": 758696,
+    "state": "Michigan",
+    "total_energy": 2753536,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 140472,
+    "coal_consumption": 691150,
+    "coordinates": [
+    -84.536095,
+    43.326618
+    ],
+    "electricity_consumption": 358443,
+    "fossil_fuel_consumption": 2253650,
+    "gdp": 2785212,
+    "natural_gas_consumption": 787337,
+    "state": "Michigan",
+    "total_energy": 2785212,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 140729,
+    "coal_consumption": 621633,
+    "coordinates": [
+    -84.536095,
+    43.326618
+    ],
+    "electricity_consumption": 357640,
+    "fossil_fuel_consumption": 2186354,
+    "gdp": 2687926,
+    "natural_gas_consumption": 804084,
+    "state": "Michigan",
+    "total_energy": 2687926,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 148084,
+    "coal_consumption": 658172,
+    "coordinates": [
+    -84.536095,
+    43.326618
+    ],
+    "electricity_consumption": 351567,
+    "fossil_fuel_consumption": 2304114,
+    "gdp": 2832425,
+    "natural_gas_consumption": 828483,
+    "state": "Michigan",
+    "total_energy": 2832425,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 150125,
     "coal_consumption": 618479,
     "coordinates": [
@@ -3448,6 +1648,66 @@
     "state": "Michigan",
     "total_energy": 2881550,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 163181,
+    "coal_consumption": 315438,
+    "coordinates": [
+    -93.900192,
+    45.694454
+    ],
+    "electricity_consumption": 231333,
+    "fossil_fuel_consumption": 1337325,
+    "gdp": 1857095,
+    "natural_gas_consumption": 427198,
+    "state": "Minnesota",
+    "total_energy": 1857095,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 155130,
+    "coal_consumption": 315604,
+    "coordinates": [
+    -93.900192,
+    45.694454
+    ],
+    "electricity_consumption": 233834,
+    "fossil_fuel_consumption": 1329595,
+    "gdp": 1850749,
+    "natural_gas_consumption": 424978,
+    "state": "Minnesota",
+    "total_energy": 1850749,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 150916,
+    "coal_consumption": 257875,
+    "coordinates": [
+    -93.900192,
+    45.694454
+    ],
+    "electricity_consumption": 231977,
+    "fossil_fuel_consumption": 1281593,
+    "gdp": 1816866,
+    "natural_gas_consumption": 430286,
+    "state": "Minnesota",
+    "total_energy": 1816866,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 148505,
+    "coal_consumption": 267695,
+    "coordinates": [
+    -93.900192,
+    45.694454
+    ],
+    "electricity_consumption": 234214,
+    "fossil_fuel_consumption": 1328816,
+    "gdp": 1858816,
+    "natural_gas_consumption": 474891,
+    "state": "Minnesota",
+    "total_energy": 1858816,
+    "year": 2013
     },
     {
     "biomass_consumption": 162992,
@@ -3465,6 +1725,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 71310,
+    "coal_consumption": 148463,
+    "coordinates": [
+    -89.678696,
+    32.741646
+    ],
+    "electricity_consumption": 169533,
+    "fossil_fuel_consumption": 999309,
+    "gdp": 1177620,
+    "natural_gas_consumption": 444875,
+    "state": "Mississippi",
+    "total_energy": 1177620,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 71184,
+    "coal_consumption": 107546,
+    "coordinates": [
+    -89.678696,
+    32.741646
+    ],
+    "electricity_consumption": 168340,
+    "fossil_fuel_consumption": 944952,
+    "gdp": 1155456,
+    "natural_gas_consumption": 437873,
+    "state": "Mississippi",
+    "total_energy": 1155456,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 84165,
+    "coal_consumption": 82456,
+    "coordinates": [
+    -89.678696,
+    32.741646
+    ],
+    "electricity_consumption": 165099,
+    "fossil_fuel_consumption": 989634,
+    "gdp": 1143099,
+    "natural_gas_consumption": 499946,
+    "state": "Mississippi",
+    "total_energy": 1143099,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 70216,
+    "coal_consumption": 97767,
+    "coordinates": [
+    -89.678696,
+    32.741646
+    ],
+    "electricity_consumption": 166444,
+    "fossil_fuel_consumption": 942046,
+    "gdp": 1138181,
+    "natural_gas_consumption": 427323,
+    "state": "Mississippi",
+    "total_energy": 1138181,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 71994,
     "coal_consumption": 116537,
     "coordinates": [
@@ -3478,6 +1798,66 @@
     "state": "Mississippi",
     "total_energy": 1155549,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 69261,
+    "coal_consumption": 801625,
+    "coordinates": [
+    -92.288368,
+    38.456085
+    ],
+    "electricity_consumption": 293722,
+    "fossil_fuel_consumption": 1721620,
+    "gdp": 1910500,
+    "natural_gas_consumption": 282141,
+    "state": "Missouri",
+    "total_energy": 1910500,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 66131,
+    "coal_consumption": 825650,
+    "coordinates": [
+    -92.288368,
+    38.456085
+    ],
+    "electricity_consumption": 287478,
+    "fossil_fuel_consumption": 1719891,
+    "gdp": 1856590,
+    "natural_gas_consumption": 275308,
+    "state": "Missouri",
+    "total_energy": 1856590,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 62496,
+    "coal_consumption": 768297,
+    "coordinates": [
+    -92.288368,
+    38.456085
+    ],
+    "electricity_consumption": 281269,
+    "fossil_fuel_consumption": 1623633,
+    "gdp": 1781978,
+    "natural_gas_consumption": 258945,
+    "state": "Missouri",
+    "total_energy": 1781978,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 71490,
+    "coal_consumption": 806549,
+    "coordinates": [
+    -92.288368,
+    38.456085
+    ],
+    "electricity_consumption": 284585,
+    "fossil_fuel_consumption": 1689057,
+    "gdp": 1847506,
+    "natural_gas_consumption": 280845,
+    "state": "Missouri",
+    "total_energy": 1847506,
+    "year": 2013
     },
     {
     "biomass_consumption": 74839,
@@ -3495,6 +1875,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 14644,
+    "coal_consumption": 203339,
+    "coordinates": [
+    -110.454353,
+    46.921925
+    ],
+    "electricity_consumption": 46988,
+    "fossil_fuel_consumption": 447231,
+    "gdp": 400855,
+    "natural_gas_consumption": 72888,
+    "state": "Montana",
+    "total_energy": 400855,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 7601,
+    "coal_consumption": 165687,
+    "coordinates": [
+    -110.454353,
+    46.921925
+    ],
+    "electricity_consumption": 47045,
+    "fossil_fuel_consumption": 422616,
+    "gdp": 402355,
+    "natural_gas_consumption": 79470,
+    "state": "Montana",
+    "total_energy": 402355,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 7601,
+    "coal_consumption": 157308,
+    "coordinates": [
+    -110.454353,
+    46.921925
+    ],
+    "electricity_consumption": 47302,
+    "fossil_fuel_consumption": 405716,
+    "gdp": 395724,
+    "natural_gas_consumption": 75234,
+    "state": "Montana",
+    "total_energy": 395724,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 8632,
+    "coal_consumption": 166104,
+    "coordinates": [
+    -110.454353,
+    46.921925
+    ],
+    "electricity_consumption": 47922,
+    "fossil_fuel_consumption": 422138,
+    "gdp": 405934,
+    "natural_gas_consumption": 81900,
+    "state": "Montana",
+    "total_energy": 405934,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 8888,
     "coal_consumption": 175357,
     "coordinates": [
@@ -3508,6 +1948,66 @@
     "state": "Montana",
     "total_energy": 403446,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 109887,
+    "coal_consumption": 254552,
+    "coordinates": [
+    -98.268082,
+    41.12537
+    ],
+    "electricity_consumption": 101846,
+    "fossil_fuel_consumption": 666348,
+    "gdp": 860741,
+    "natural_gas_consumption": 169620,
+    "state": "Nebraska",
+    "total_energy": 860741,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 116589,
+    "coal_consumption": 285384,
+    "coordinates": [
+    -98.268082,
+    41.12537
+    ],
+    "electricity_consumption": 101255,
+    "fossil_fuel_consumption": 690557,
+    "gdp": 862675,
+    "natural_gas_consumption": 173666,
+    "state": "Nebraska",
+    "total_energy": 862675,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 107042,
+    "coal_consumption": 272587,
+    "coordinates": [
+    -98.268082,
+    41.12537
+    ],
+    "electricity_consumption": 105185,
+    "fossil_fuel_consumption": 668116,
+    "gdp": 852984,
+    "natural_gas_consumption": 161774,
+    "state": "Nebraska",
+    "total_energy": 852984,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 107097,
+    "coal_consumption": 292956,
+    "coordinates": [
+    -98.268082,
+    41.12537
+    ],
+    "electricity_consumption": 104750,
+    "fossil_fuel_consumption": 705960,
+    "gdp": 871815,
+    "natural_gas_consumption": 178752,
+    "state": "Nebraska",
+    "total_energy": 871815,
+    "year": 2013
     },
     {
     "biomass_consumption": 102397,
@@ -3525,6 +2025,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 9739,
+    "coal_consumption": 80228,
+    "coordinates": [
+    -117.055374,
+    38.313515
+    ],
+    "electricity_consumption": 115232,
+    "fossil_fuel_consumption": 577325,
+    "gdp": 645604,
+    "natural_gas_consumption": 267808,
+    "state": "Nevada",
+    "total_energy": 645604,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 9375,
+    "coal_consumption": 62701,
+    "coordinates": [
+    -117.055374,
+    38.313515
+    ],
+    "electricity_consumption": 115723,
+    "fossil_fuel_consumption": 529486,
+    "gdp": 632655,
+    "natural_gas_consumption": 255970,
+    "state": "Nevada",
+    "total_energy": 632655,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 9154,
+    "coal_consumption": 52850,
+    "coordinates": [
+    -117.055374,
+    38.313515
+    ],
+    "electricity_consumption": 120034,
+    "fossil_fuel_consumption": 548427,
+    "gdp": 639190,
+    "natural_gas_consumption": 281432,
+    "state": "Nevada",
+    "total_energy": 639190,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 10021,
+    "coal_consumption": 64838,
+    "coordinates": [
+    -117.055374,
+    38.313515
+    ],
+    "electricity_consumption": 120141,
+    "fossil_fuel_consumption": 569355,
+    "gdp": 659568,
+    "natural_gas_consumption": 281972,
+    "state": "Nevada",
+    "total_energy": 659568,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 10681,
     "coal_consumption": 79230,
     "coordinates": [
@@ -3538,6 +2098,66 @@
     "state": "Nevada",
     "total_energy": 660256,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 33502,
+    "coal_consumption": 33827,
+    "coordinates": [
+    -71.563896,
+    43.452492
+    ],
+    "electricity_consumption": 37157,
+    "fossil_fuel_consumption": 242475,
+    "gdp": 294473,
+    "natural_gas_consumption": 62612,
+    "state": "New Hampshire",
+    "total_energy": 294473,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 33745,
+    "coal_consumption": 24489,
+    "coordinates": [
+    -71.563896,
+    43.452492
+    ],
+    "electricity_consumption": 37084,
+    "fossil_fuel_consumption": 242846,
+    "gdp": 292979,
+    "natural_gas_consumption": 72778,
+    "state": "New Hampshire",
+    "total_energy": 292979,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 35301,
+    "coal_consumption": 14191,
+    "coordinates": [
+    -71.563896,
+    43.452492
+    ],
+    "electricity_consumption": 37089,
+    "fossil_fuel_consumption": 224415,
+    "gdp": 284490,
+    "natural_gas_consumption": 74336,
+    "state": "New Hampshire",
+    "total_energy": 284490,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 40393,
+    "coal_consumption": 16778,
+    "coordinates": [
+    -71.563896,
+    43.452492
+    ],
+    "electricity_consumption": 37680,
+    "fossil_fuel_consumption": 214922,
+    "gdp": 304538,
+    "natural_gas_consumption": 55649,
+    "state": "New Hampshire",
+    "total_energy": 304538,
+    "year": 2013
     },
     {
     "biomass_consumption": 43200,
@@ -3555,6 +2175,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 64370,
+    "coal_consumption": 71961,
+    "coordinates": [
+    -74.521011,
+    40.298904
+    ],
+    "electricity_consumption": 270160,
+    "fossil_fuel_consumption": 1772767,
+    "gdp": 2395713,
+    "natural_gas_consumption": 671474,
+    "state": "New Jersey",
+    "total_energy": 2395713,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 62752,
+    "coal_consumption": 49592,
+    "coordinates": [
+    -74.521011,
+    40.298904
+    ],
+    "electricity_consumption": 262246,
+    "fossil_fuel_consumption": 1794240,
+    "gdp": 2411816,
+    "natural_gas_consumption": 677923,
+    "state": "New Jersey",
+    "total_energy": 2411816,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 61003,
+    "coal_consumption": 25589,
+    "coordinates": [
+    -74.521011,
+    40.298904
+    ],
+    "electricity_consumption": 256081,
+    "fossil_fuel_consumption": 1647100,
+    "gdp": 2241207,
+    "natural_gas_consumption": 670970,
+    "state": "New Jersey",
+    "total_energy": 2241207,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 65208,
+    "coal_consumption": 25910,
+    "coordinates": [
+    -74.521011,
+    40.298904
+    ],
+    "electricity_consumption": 254680,
+    "fossil_fuel_consumption": 1704155,
+    "gdp": 2311685,
+    "natural_gas_consumption": 712948,
+    "state": "New Jersey",
+    "total_energy": 2311685,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 67456,
     "coal_consumption": 30731,
     "coordinates": [
@@ -3568,6 +2248,66 @@
     "state": "New Jersey",
     "total_energy": 2340188,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 17663,
+    "coal_consumption": 267474,
+    "coordinates": [
+    -106.248482,
+    34.840515
+    ],
+    "electricity_consumption": 76526,
+    "fossil_fuel_consumption": 737539,
+    "gdp": 649962,
+    "natural_gas_consumption": 246201,
+    "state": "New Mexico",
+    "total_energy": 649962,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 17054,
+    "coal_consumption": 284737,
+    "coordinates": [
+    -106.248482,
+    34.840515
+    ],
+    "electricity_consumption": 78618,
+    "fossil_fuel_consumption": 768020,
+    "gdp": 668675,
+    "natural_gas_consumption": 251838,
+    "state": "New Mexico",
+    "total_energy": 668675,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 16179,
+    "coal_consumption": 263439,
+    "coordinates": [
+    -106.248482,
+    34.840515
+    ],
+    "electricity_consumption": 79085,
+    "fossil_fuel_consumption": 745336,
+    "gdp": 666540,
+    "natural_gas_consumption": 249815,
+    "state": "New Mexico",
+    "total_energy": 666540,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 17990,
+    "coal_consumption": 256377,
+    "coordinates": [
+    -106.248482,
+    34.840515
+    ],
+    "electricity_consumption": 78698,
+    "fossil_fuel_consumption": 741402,
+    "gdp": 670257,
+    "natural_gas_consumption": 252867,
+    "state": "New Mexico",
+    "total_energy": 670257,
+    "year": 2013
     },
     {
     "biomass_consumption": 17189,
@@ -3585,6 +2325,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 120168,
+    "coal_consumption": 167094,
+    "coordinates": [
+    -74.948051,
+    42.165726
+    ],
+    "electricity_consumption": 493456,
+    "fossil_fuel_consumption": 2733286,
+    "gdp": 3723729,
+    "natural_gas_consumption": 1224485,
+    "state": "New York",
+    "total_energy": 3723729,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 124402,
+    "coal_consumption": 125181,
+    "coordinates": [
+    -74.948051,
+    42.165726
+    ],
+    "electricity_consumption": 491487,
+    "fossil_fuel_consumption": 2620842,
+    "gdp": 3611091,
+    "natural_gas_consumption": 1247757,
+    "state": "New York",
+    "total_energy": 3611091,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 122513,
+    "coal_consumption": 72914,
+    "coordinates": [
+    -74.948051,
+    42.165726
+    ],
+    "electricity_consumption": 488471,
+    "fossil_fuel_consumption": 2593481,
+    "gdp": 3503309,
+    "natural_gas_consumption": 1260950,
+    "state": "New York",
+    "total_energy": 3503309,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 129687,
+    "coal_consumption": 68707,
+    "coordinates": [
+    -74.948051,
+    42.165726
+    ],
+    "electricity_consumption": 504618,
+    "fossil_fuel_consumption": 2629451,
+    "gdp": 3626150,
+    "natural_gas_consumption": 1315282,
+    "state": "New York",
+    "total_energy": 3626150,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 134792,
     "coal_consumption": 64655,
     "coordinates": [
@@ -3598,6 +2398,66 @@
     "state": "New York",
     "total_energy": 3742892,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 134325,
+    "coal_consumption": 749091,
+    "coordinates": [
+    -79.806419,
+    35.630066
+    ],
+    "electricity_consumption": 465448,
+    "fossil_fuel_consumption": 1869784,
+    "gdp": 2685333,
+    "natural_gas_consumption": 308710,
+    "state": "North Carolina",
+    "total_energy": 2685333,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 141002,
+    "coal_consumption": 624783,
+    "coordinates": [
+    -79.806419,
+    35.630066
+    ],
+    "electricity_consumption": 447262,
+    "fossil_fuel_consumption": 1704725,
+    "gdp": 2558792,
+    "natural_gas_consumption": 311189,
+    "state": "North Carolina",
+    "total_energy": 2558792,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 142163,
+    "coal_consumption": 534713,
+    "coordinates": [
+    -79.806419,
+    35.630066
+    ],
+    "electricity_consumption": 437026,
+    "fossil_fuel_consumption": 1654828,
+    "gdp": 2481060,
+    "natural_gas_consumption": 367948,
+    "state": "North Carolina",
+    "total_energy": 2481060,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 148324,
+    "coal_consumption": 493771,
+    "coordinates": [
+    -79.806419,
+    35.630066
+    ],
+    "electricity_consumption": 442809,
+    "fossil_fuel_consumption": 1734549,
+    "gdp": 2530649,
+    "natural_gas_consumption": 445898,
+    "state": "North Carolina",
+    "total_energy": 2530649,
+    "year": 2013
     },
     {
     "biomass_consumption": 145560,
@@ -3615,6 +2475,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 25305,
+    "coal_consumption": 409684,
+    "coordinates": [
+    -99.784012,
+    47.528912
+    ],
+    "electricity_consumption": 44207,
+    "fossil_fuel_consumption": 622237,
+    "gdp": 476072,
+    "natural_gas_consumption": 70046,
+    "state": "North Dakota",
+    "total_energy": 476072,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 27145,
+    "coal_consumption": 394771,
+    "coordinates": [
+    -99.784012,
+    47.528912
+    ],
+    "electricity_consumption": 46871,
+    "fossil_fuel_consumption": 652742,
+    "gdp": 528508,
+    "natural_gas_consumption": 77752,
+    "state": "North Dakota",
+    "total_energy": 528508,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 25455,
+    "coal_consumption": 406344,
+    "coordinates": [
+    -99.784012,
+    47.528912
+    ],
+    "electricity_consumption": 50214,
+    "fossil_fuel_consumption": 678850,
+    "gdp": 552326,
+    "natural_gas_consumption": 77469,
+    "state": "North Dakota",
+    "total_energy": 552326,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 26067,
+    "coal_consumption": 393193,
+    "coordinates": [
+    -99.784012,
+    47.528912
+    ],
+    "electricity_consumption": 54704,
+    "fossil_fuel_consumption": 701050,
+    "gdp": 594439,
+    "natural_gas_consumption": 88285,
+    "state": "North Dakota",
+    "total_energy": 594439,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 26745,
     "coal_consumption": 399195,
     "coordinates": [
@@ -3628,6 +2548,66 @@
     "state": "North Dakota",
     "total_energy": 640095,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 110645,
+    "coal_consumption": 1355137,
+    "coordinates": [
+    -82.764915,
+    40.388783
+    ],
+    "electricity_consumption": 525944,
+    "fossil_fuel_consumption": 3304252,
+    "gdp": 3824933,
+    "natural_gas_consumption": 810958,
+    "state": "Ohio",
+    "total_energy": 3824933,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 115650,
+    "coal_consumption": 1222606,
+    "coordinates": [
+    -82.764915,
+    40.388783
+    ],
+    "electricity_consumption": 527994,
+    "fossil_fuel_consumption": 3188336,
+    "gdp": 3792585,
+    "natural_gas_consumption": 849076,
+    "state": "Ohio",
+    "total_energy": 3792585,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 115615,
+    "coal_consumption": 1019140,
+    "coordinates": [
+    -82.764915,
+    40.388783
+    ],
+    "electricity_consumption": 520183,
+    "fossil_fuel_consumption": 2984206,
+    "gdp": 3655849,
+    "natural_gas_consumption": 869934,
+    "state": "Ohio",
+    "total_energy": 3655849,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 126808,
+    "coal_consumption": 1104486,
+    "coordinates": [
+    -82.764915,
+    40.388783
+    ],
+    "electricity_consumption": 512848,
+    "fossil_fuel_consumption": 3170468,
+    "gdp": 3739974,
+    "natural_gas_consumption": 954374,
+    "state": "Ohio",
+    "total_energy": 3739974,
+    "year": 2013
     },
     {
     "biomass_consumption": 129920,
@@ -3645,6 +2625,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 39320,
+    "coal_consumption": 346047,
+    "coordinates": [
+    -96.928917,
+    35.565342
+    ],
+    "electricity_consumption": 197370,
+    "fossil_fuel_consumption": 1571983,
+    "gdp": 1579910,
+    "natural_gas_consumption": 697351,
+    "state": "Oklahoma",
+    "total_energy": 1579910,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 39133,
+    "coal_consumption": 378320,
+    "coordinates": [
+    -96.928917,
+    35.565342
+    ],
+    "electricity_consumption": 204197,
+    "fossil_fuel_consumption": 1576848,
+    "gdp": 1585212,
+    "natural_gas_consumption": 676910,
+    "state": "Oklahoma",
+    "total_energy": 1585212,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 41310,
+    "coal_consumption": 327089,
+    "coordinates": [
+    -96.928917,
+    35.565342
+    ],
+    "electricity_consumption": 202470,
+    "fossil_fuel_consumption": 1567142,
+    "gdp": 1561913,
+    "natural_gas_consumption": 712411,
+    "state": "Oklahoma",
+    "total_energy": 1561913,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 42616,
+    "coal_consumption": 335925,
+    "coordinates": [
+    -96.928917,
+    35.565342
+    ],
+    "electricity_consumption": 204478,
+    "fossil_fuel_consumption": 1537652,
+    "gdp": 1620837,
+    "natural_gas_consumption": 682277,
+    "state": "Oklahoma",
+    "total_energy": 1620837,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 42870,
     "coal_consumption": 336080,
     "coordinates": [
@@ -3658,6 +2698,66 @@
     "state": "Oklahoma",
     "total_energy": 1679856,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 59498,
+    "coal_consumption": 42556,
+    "coordinates": [
+    -122.070938,
+    44.572021
+    ],
+    "electricity_consumption": 157041,
+    "fossil_fuel_consumption": 628380,
+    "gdp": 975067,
+    "natural_gas_consumption": 242914,
+    "state": "Oregon",
+    "total_energy": 975067,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 57460,
+    "coal_consumption": 35135,
+    "coordinates": [
+    -122.070938,
+    44.572021
+    ],
+    "electricity_consumption": 160949,
+    "fossil_fuel_consumption": 572458,
+    "gdp": 1002476,
+    "natural_gas_consumption": 203607,
+    "state": "Oregon",
+    "total_energy": 1002476,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 61814,
+    "coal_consumption": 28259,
+    "coordinates": [
+    -122.070938,
+    44.572021
+    ],
+    "electricity_consumption": 159302,
+    "fossil_fuel_consumption": 575060,
+    "gdp": 975044,
+    "natural_gas_consumption": 220578,
+    "state": "Oregon",
+    "total_energy": 975044,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 71299,
+    "coal_consumption": 38900,
+    "coordinates": [
+    -122.070938,
+    44.572021
+    ],
+    "electricity_consumption": 162551,
+    "fossil_fuel_consumption": 608017,
+    "gdp": 991867,
+    "natural_gas_consumption": 244025,
+    "state": "Oregon",
+    "total_energy": 991867,
+    "year": 2013
     },
     {
     "biomass_consumption": 72449,
@@ -3675,6 +2775,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 132240,
+    "coal_consumption": 1310670,
+    "coordinates": [
+    -77.209755,
+    40.590752
+    ],
+    "electricity_consumption": 508265,
+    "fossil_fuel_consumption": 3469617,
+    "gdp": 3752280,
+    "natural_gas_consumption": 909263,
+    "state": "Pennsylvania",
+    "total_energy": 3752280,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 143718,
+    "coal_consumption": 1212984,
+    "coordinates": [
+    -77.209755,
+    40.590752
+    ],
+    "electricity_consumption": 507560,
+    "fossil_fuel_consumption": 3412240,
+    "gdp": 3725014,
+    "natural_gas_consumption": 1000509,
+    "state": "Pennsylvania",
+    "total_energy": 3725014,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 141507,
+    "coal_consumption": 1093178,
+    "coordinates": [
+    -77.209755,
+    40.590752
+    ],
+    "electricity_consumption": 493750,
+    "fossil_fuel_consumption": 3324396,
+    "gdp": 3623997,
+    "natural_gas_consumption": 1079497,
+    "state": "Pennsylvania",
+    "total_energy": 3623997,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 154219,
+    "coal_consumption": 1126118,
+    "coordinates": [
+    -77.209755,
+    40.590752
+    ],
+    "electricity_consumption": 499018,
+    "fossil_fuel_consumption": 3472175,
+    "gdp": 3826959,
+    "natural_gas_consumption": 1176660,
+    "state": "Pennsylvania",
+    "total_energy": 3826959,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 148961,
     "coal_consumption": 1039161,
     "coordinates": [
@@ -3688,6 +2848,66 @@
     "state": "Pennsylvania",
     "total_energy": 3902434,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 6691,
+    "coal_consumption": 0,
+    "coordinates": [
+    -71.51178,
+    41.680893
+    ],
+    "electricity_consumption": 26611,
+    "fossil_fuel_consumption": 184732,
+    "gdp": 195314,
+    "natural_gas_consumption": 95710,
+    "state": "Rhode Island",
+    "total_energy": 195314,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 6265,
+    "coal_consumption": 0,
+    "coordinates": [
+    -71.51178,
+    41.680893
+    ],
+    "electricity_consumption": 26383,
+    "fossil_fuel_consumption": 185371,
+    "gdp": 185731,
+    "natural_gas_consumption": 102465,
+    "state": "Rhode Island",
+    "total_energy": 185731,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 5609,
+    "coal_consumption": 0,
+    "coordinates": [
+    -71.51178,
+    41.680893
+    ],
+    "electricity_consumption": 26301,
+    "fossil_fuel_consumption": 178036,
+    "gdp": 183879,
+    "natural_gas_consumption": 98435,
+    "state": "Rhode Island",
+    "total_energy": 183879,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 5458,
+    "coal_consumption": 0,
+    "coordinates": [
+    -71.51178,
+    41.680893
+    ],
+    "electricity_consumption": 26549,
+    "fossil_fuel_consumption": 171472,
+    "gdp": 199165,
+    "natural_gas_consumption": 88274,
+    "state": "Rhode Island",
+    "total_energy": 199165,
+    "year": 2013
     },
     {
     "biomass_consumption": 7068,
@@ -3705,6 +2925,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 101716,
+    "coal_consumption": 404966,
+    "coordinates": [
+    -80.945007,
+    33.856892
+    ],
+    "electricity_consumption": 281419,
+    "fossil_fuel_consumption": 1124533,
+    "gdp": 1643912,
+    "natural_gas_consumption": 225961,
+    "state": "South Carolina",
+    "total_energy": 1643912,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 111632,
+    "coal_consumption": 366160,
+    "coordinates": [
+    -80.945007,
+    33.856892
+    ],
+    "electricity_consumption": 274627,
+    "fossil_fuel_consumption": 1077992,
+    "gdp": 1601881,
+    "natural_gas_consumption": 235465,
+    "state": "South Carolina",
+    "total_energy": 1601881,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 117091,
+    "coal_consumption": 298572,
+    "coordinates": [
+    -80.945007,
+    33.856892
+    ],
+    "electricity_consumption": 265389,
+    "fossil_fuel_consumption": 1012652,
+    "gdp": 1558766,
+    "natural_gas_consumption": 250482,
+    "state": "South Carolina",
+    "total_energy": 1558766,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 113934,
+    "coal_consumption": 257319,
+    "coordinates": [
+    -80.945007,
+    33.856892
+    ],
+    "electricity_consumption": 268190,
+    "fossil_fuel_consumption": 975757,
+    "gdp": 1590456,
+    "natural_gas_consumption": 236710,
+    "state": "South Carolina",
+    "total_energy": 1590456,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 122321,
     "coal_consumption": 305656,
     "coordinates": [
@@ -3718,6 +2998,66 @@
     "state": "South Carolina",
     "total_energy": 1632085,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 63943,
+    "coal_consumption": 39061,
+    "coordinates": [
+    -99.438828,
+    44.299782
+    ],
+    "electricity_consumption": 38747,
+    "fossil_fuel_consumption": 226232,
+    "gdp": 378514,
+    "natural_gas_consumption": 72926,
+    "state": "South Dakota",
+    "total_energy": 378514,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 62472,
+    "coal_consumption": 32112,
+    "coordinates": [
+    -99.438828,
+    44.299782
+    ],
+    "electricity_consumption": 39851,
+    "fossil_fuel_consumption": 218924,
+    "gdp": 378470,
+    "natural_gas_consumption": 73973,
+    "state": "South Dakota",
+    "total_energy": 378470,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 58812,
+    "coal_consumption": 35574,
+    "coordinates": [
+    -99.438828,
+    44.299782
+    ],
+    "electricity_consumption": 40037,
+    "fossil_fuel_consumption": 225164,
+    "gdp": 375950,
+    "natural_gas_consumption": 71501,
+    "state": "South Dakota",
+    "total_energy": 375950,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 61515,
+    "coal_consumption": 34246,
+    "coordinates": [
+    -99.438828,
+    44.299782
+    ],
+    "electricity_consumption": 41660,
+    "fossil_fuel_consumption": 231578,
+    "gdp": 389619,
+    "natural_gas_consumption": 83871,
+    "state": "South Dakota",
+    "total_energy": 389619,
+    "year": 2013
     },
     {
     "biomass_consumption": 62730,
@@ -3735,6 +3075,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 91516,
+    "coal_consumption": 515464,
+    "coordinates": [
+    -86.692345,
+    35.747845
+    ],
+    "electricity_consumption": 353215,
+    "fossil_fuel_consumption": 1461432,
+    "gdp": 2247273,
+    "natural_gas_consumption": 263365,
+    "state": "Tennessee",
+    "total_energy": 2247273,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 91048,
+    "coal_consumption": 481127,
+    "coordinates": [
+    -86.692345,
+    35.747845
+    ],
+    "electricity_consumption": 343702,
+    "fossil_fuel_consumption": 1427048,
+    "gdp": 2195401,
+    "natural_gas_consumption": 267929,
+    "state": "Tennessee",
+    "total_energy": 2195401,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 96477,
+    "coal_consumption": 423086,
+    "coordinates": [
+    -86.692345,
+    35.747845
+    ],
+    "electricity_consumption": 328854,
+    "fossil_fuel_consumption": 1355061,
+    "gdp": 2080953,
+    "natural_gas_consumption": 281007,
+    "state": "Tennessee",
+    "total_energy": 2080953,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 98518,
+    "coal_consumption": 399768,
+    "coordinates": [
+    -86.692345,
+    35.747845
+    ],
+    "electricity_consumption": 330773,
+    "fossil_fuel_consumption": 1344036,
+    "gdp": 2132508,
+    "natural_gas_consumption": 285308,
+    "state": "Tennessee",
+    "total_energy": 2132508,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 101449,
     "coal_consumption": 427509,
     "coordinates": [
@@ -3748,6 +3148,66 @@
     "state": "Tennessee",
     "total_energy": 2194512,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 179840,
+    "coal_consumption": 1568060,
+    "coordinates": [
+    -97.563461,
+    31.054487
+    ],
+    "electricity_consumption": 1223057,
+    "fossil_fuel_consumption": 10741110,
+    "gdp": 11687521,
+    "natural_gas_consumption": 3689583,
+    "state": "Texas",
+    "total_energy": 11687521,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 205461,
+    "coal_consumption": 1695239,
+    "coordinates": [
+    -97.563461,
+    31.054487
+    ],
+    "electricity_consumption": 1283134,
+    "fossil_fuel_consumption": 10979933,
+    "gdp": 11906249,
+    "natural_gas_consumption": 3800578,
+    "state": "Texas",
+    "total_energy": 11906249,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 200181,
+    "coal_consumption": 1498818,
+    "coordinates": [
+    -97.563461,
+    31.054487
+    ],
+    "electricity_consumption": 1245735,
+    "fossil_fuel_consumption": 11054960,
+    "gdp": 11931169,
+    "natural_gas_consumption": 3964121,
+    "state": "Texas",
+    "total_energy": 11931169,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 197910,
+    "coal_consumption": 1597357,
+    "coordinates": [
+    -97.563461,
+    31.054487
+    ],
+    "electricity_consumption": 1292524,
+    "fossil_fuel_consumption": 11616497,
+    "gdp": 12660976,
+    "natural_gas_consumption": 4143328,
+    "state": "Texas",
+    "total_energy": 12660976,
+    "year": 2013
     },
     {
     "biomass_consumption": 214603,
@@ -3765,6 +3225,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 7712,
+    "coal_consumption": 356148,
+    "coordinates": [
+    -111.862434,
+    40.150032
+    ],
+    "electricity_consumption": 95686,
+    "fossil_fuel_consumption": 847682,
+    "gdp": 756012,
+    "natural_gas_consumption": 229078,
+    "state": "Utah",
+    "total_energy": 756012,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 9209,
+    "coal_consumption": 346181,
+    "coordinates": [
+    -111.862434,
+    40.150032
+    ],
+    "electricity_consumption": 98467,
+    "fossil_fuel_consumption": 858627,
+    "gdp": 794058,
+    "natural_gas_consumption": 230672,
+    "state": "Utah",
+    "total_energy": 794058,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 9560,
+    "coal_consumption": 322055,
+    "coordinates": [
+    -111.862434,
+    40.150032
+    ],
+    "electricity_consumption": 101416,
+    "fossil_fuel_consumption": 829676,
+    "gdp": 790154,
+    "natural_gas_consumption": 232630,
+    "state": "Utah",
+    "total_energy": 790154,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 10581,
+    "coal_consumption": 355230,
+    "coordinates": [
+    -111.862434,
+    40.150032
+    ],
+    "electricity_consumption": 103977,
+    "fossil_fuel_consumption": 897843,
+    "gdp": 831668,
+    "natural_gas_consumption": 258909,
+    "state": "Utah",
+    "total_energy": 831668,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 10562,
     "coal_consumption": 344054,
     "coordinates": [
@@ -3778,6 +3298,66 @@
     "state": "Utah",
     "total_energy": 797995,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 19041,
+    "coal_consumption": 0,
+    "coordinates": [
+    -72.710686,
+    44.045876
+    ],
+    "electricity_consumption": 19090,
+    "fossil_fuel_consumption": 90299,
+    "gdp": 153697,
+    "natural_gas_consumption": 8502,
+    "state": "Vermont",
+    "total_energy": 153697,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 17194,
+    "coal_consumption": 0,
+    "coordinates": [
+    -72.710686,
+    44.045876
+    ],
+    "electricity_consumption": 18937,
+    "fossil_fuel_consumption": 88836,
+    "gdp": 150475,
+    "natural_gas_consumption": 8679,
+    "state": "Vermont",
+    "total_energy": 150475,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 16070,
+    "coal_consumption": 0,
+    "coordinates": [
+    -72.710686,
+    44.045876
+    ],
+    "electricity_consumption": 18803,
+    "fossil_fuel_consumption": 84141,
+    "gdp": 130412,
+    "natural_gas_consumption": 8290,
+    "state": "Vermont",
+    "total_energy": 130412,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 20794,
+    "coal_consumption": 0,
+    "coordinates": [
+    -72.710686,
+    44.045876
+    ],
+    "electricity_consumption": 19065,
+    "fossil_fuel_consumption": 89119,
+    "gdp": 137527,
+    "natural_gas_consumption": 9746,
+    "state": "Vermont",
+    "total_energy": 137527,
+    "year": 2013
     },
     {
     "biomass_consumption": 20279,
@@ -3795,6 +3375,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 119506,
+    "coal_consumption": 346161,
+    "coordinates": [
+    -78.169968,
+    37.769337
+    ],
+    "electricity_consumption": 388307,
+    "fossil_fuel_consumption": 1535604,
+    "gdp": 2483360,
+    "natural_gas_consumption": 385931,
+    "state": "Virginia",
+    "total_energy": 2483360,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 116144,
+    "coal_consumption": 288348,
+    "coordinates": [
+    -78.169968,
+    37.769337
+    ],
+    "electricity_consumption": 376099,
+    "fossil_fuel_consumption": 1431388,
+    "gdp": 2380922,
+    "natural_gas_consumption": 383527,
+    "state": "Virginia",
+    "total_energy": 2380922,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 118265,
+    "coal_consumption": 222270,
+    "coordinates": [
+    -78.169968,
+    37.769337
+    ],
+    "electricity_consumption": 367796,
+    "fossil_fuel_consumption": 1432460,
+    "gdp": 2343908,
+    "natural_gas_consumption": 424050,
+    "state": "Virginia",
+    "total_energy": 2343908,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 132138,
+    "coal_consumption": 290508,
+    "coordinates": [
+    -78.169968,
+    37.769337
+    ],
+    "electricity_consumption": 377066,
+    "fossil_fuel_consumption": 1512226,
+    "gdp": 2414477,
+    "natural_gas_consumption": 435247,
+    "state": "Virginia",
+    "total_energy": 2414477,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 150362,
     "coal_consumption": 278183,
     "coordinates": [
@@ -3808,6 +3448,66 @@
     "state": "Virginia",
     "total_energy": 2430205,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 115340,
+    "coal_consumption": 94934,
+    "coordinates": [
+    -121.490494,
+    47.400902
+    ],
+    "electricity_consumption": 308376,
+    "fossil_fuel_consumption": 1115899,
+    "gdp": 2031428,
+    "natural_gas_consumption": 294871,
+    "state": "Washington",
+    "total_energy": 2031428,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 114621,
+    "coal_consumption": 56951,
+    "coordinates": [
+    -121.490494,
+    47.400902
+    ],
+    "electricity_consumption": 319789,
+    "fossil_fuel_consumption": 1042446,
+    "gdp": 2059630,
+    "natural_gas_consumption": 272261,
+    "state": "Washington",
+    "total_energy": 2059630,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 112884,
+    "coal_consumption": 42656,
+    "coordinates": [
+    -121.490494,
+    47.400902
+    ],
+    "electricity_consumption": 315052,
+    "fossil_fuel_consumption": 1049562,
+    "gdp": 2037127,
+    "natural_gas_consumption": 271947,
+    "state": "Washington",
+    "total_energy": 2037127,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 119013,
+    "coal_consumption": 74955,
+    "coordinates": [
+    -121.490494,
+    47.400902
+    ],
+    "electricity_consumption": 316916,
+    "fossil_fuel_consumption": 1113069,
+    "gdp": 2036309,
+    "natural_gas_consumption": 327840,
+    "state": "Washington",
+    "total_energy": 2036309,
+    "year": 2013
     },
     {
     "biomass_consumption": 121119,
@@ -3825,6 +3525,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 25598,
+    "coal_consumption": 848129,
+    "coordinates": [
+    -80.954453,
+    38.491226
+    ],
+    "electricity_consumption": 109293,
+    "fossil_fuel_consumption": 1165405,
+    "gdp": 738821,
+    "natural_gas_consumption": 121780,
+    "state": "West Virginia",
+    "total_energy": 738821,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 25409,
+    "coal_consumption": 822645,
+    "coordinates": [
+    -80.954453,
+    38.491226
+    ],
+    "electricity_consumption": 106587,
+    "fossil_fuel_consumption": 1138906,
+    "gdp": 726341,
+    "natural_gas_consumption": 124935,
+    "state": "West Virginia",
+    "total_energy": 726341,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 24257,
+    "coal_consumption": 756716,
+    "coordinates": [
+    -80.954453,
+    38.491226
+    ],
+    "electricity_consumption": 105148,
+    "fossil_fuel_consumption": 1083056,
+    "gdp": 720985,
+    "natural_gas_consumption": 140133,
+    "state": "West Virginia",
+    "total_energy": 720985,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 30008,
+    "coal_consumption": 771188,
+    "coordinates": [
+    -80.954453,
+    38.491226
+    ],
+    "electricity_consumption": 107136,
+    "fossil_fuel_consumption": 1113141,
+    "gdp": 743612,
+    "natural_gas_consumption": 153875,
+    "state": "West Virginia",
+    "total_energy": 743612,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 30091,
     "coal_consumption": 816460,
     "coordinates": [
@@ -3838,6 +3598,66 @@
     "state": "West Virginia",
     "total_energy": 752942,
     "year": 2014
+    },
+    {
+    "biomass_consumption": 137892,
+    "coal_consumption": 458442,
+    "coordinates": [
+    -89.616508,
+    44.268543
+    ],
+    "electricity_consumption": 234583,
+    "fossil_fuel_consumption": 1361165,
+    "gdp": 1791199,
+    "natural_gas_consumption": 376627,
+    "state": "Wisconsin",
+    "total_energy": 1791199,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 136188,
+    "coal_consumption": 447370,
+    "coordinates": [
+    -89.616508,
+    44.268543
+    ],
+    "electricity_consumption": 234103,
+    "fossil_fuel_consumption": 1359984,
+    "gdp": 1778018,
+    "natural_gas_consumption": 399247,
+    "state": "Wisconsin",
+    "total_energy": 1778018,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 133110,
+    "coal_consumption": 373281,
+    "coordinates": [
+    -89.616508,
+    44.268543
+    ],
+    "electricity_consumption": 234814,
+    "fossil_fuel_consumption": 1283286,
+    "gdp": 1721543,
+    "natural_gas_consumption": 410305,
+    "state": "Wisconsin",
+    "total_energy": 1721543,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 134199,
+    "coal_consumption": 454554,
+    "coordinates": [
+    -89.616508,
+    44.268543
+    ],
+    "electricity_consumption": 235851,
+    "fossil_fuel_consumption": 1418732,
+    "gdp": 1813458,
+    "natural_gas_consumption": 453608,
+    "state": "Wisconsin",
+    "total_energy": 1813458,
+    "year": 2013
     },
     {
     "biomass_consumption": 136809,
@@ -3855,6 +3675,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 3330,
+    "coal_consumption": 484239,
+    "coordinates": [
+    -107.30249,
+    42.755966
+    ],
+    "electricity_consumption": 58391,
+    "fossil_fuel_consumption": 805265,
+    "gdp": 540122,
+    "natural_gas_consumption": 154759,
+    "state": "Wyoming",
+    "total_energy": 540122,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 3974,
+    "coal_consumption": 467671,
+    "coordinates": [
+    -107.30249,
+    42.755966
+    ],
+    "electricity_consumption": 59429,
+    "fossil_fuel_consumption": 797726,
+    "gdp": 556548,
+    "natural_gas_consumption": 161776,
+    "state": "Wyoming",
+    "total_energy": 556548,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 4165,
+    "coal_consumption": 490128,
+    "coordinates": [
+    -107.30249,
+    42.755966
+    ],
+    "electricity_consumption": 57906,
+    "fossil_fuel_consumption": 821266,
+    "gdp": 550182,
+    "natural_gas_consumption": 158546,
+    "state": "Wyoming",
+    "total_energy": 550182,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 4694,
+    "coal_consumption": 520699,
+    "coordinates": [
+    -107.30249,
+    42.755966
+    ],
+    "electricity_consumption": 58187,
+    "fossil_fuel_consumption": 839683,
+    "gdp": 539146,
+    "natural_gas_consumption": 155960,
+    "state": "Wyoming",
+    "total_energy": 539146,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 4566,
     "coal_consumption": 489300,
     "coordinates": [
@@ -3870,6 +3750,66 @@
     "year": 2014
     },
     {
+    "biomass_consumption": 1027,
+    "coal_consumption": 71,
+    "coordinates": [
+    -77.026817,
+    38.897438
+    ],
+    "electricity_consumption": 40524,
+    "fossil_fuel_consumption": 58155,
+    "gdp": 190529,
+    "natural_gas_consumption": 33717,
+    "state": "District of Columbia",
+    "total_energy": 190529,
+    "year": 2010
+    },
+    {
+    "biomass_consumption": 1028,
+    "coal_consumption": 48,
+    "coordinates": [
+    -77.026817,
+    38.897438
+    ],
+    "electricity_consumption": 39450,
+    "fossil_fuel_consumption": 55887,
+    "gdp": 183806,
+    "natural_gas_consumption": 33389,
+    "state": "District of Columbia",
+    "total_energy": 183806,
+    "year": 2011
+    },
+    {
+    "biomass_consumption": 819,
+    "coal_consumption": 77,
+    "coordinates": [
+    -77.026817,
+    38.897438
+    ],
+    "electricity_consumption": 38415,
+    "fossil_fuel_consumption": 49025,
+    "gdp": 172963,
+    "natural_gas_consumption": 29389,
+    "state": "District of Columbia",
+    "total_energy": 172963,
+    "year": 2012
+    },
+    {
+    "biomass_consumption": 855,
+    "coal_consumption": 4,
+    "coordinates": [
+    -77.026817,
+    38.897438
+    ],
+    "electricity_consumption": 37824,
+    "fossil_fuel_consumption": 53357,
+    "gdp": 175560,
+    "natural_gas_consumption": 34315,
+    "state": "District of Columbia",
+    "total_energy": 175560,
+    "year": 2013
+    },
+    {
     "biomass_consumption": 920,
     "coal_consumption": 48,
     "coordinates": [
@@ -3882,21 +3822,6 @@
     "natural_gas_consumption": 35316,
     "state": "District of Columbia",
     "total_energy": 178929,
-    "year": 2014
-    },
-    {
-    "biomass_consumption": 4611638,
-    "coal_consumption": 17996577,
-    "coordinates": [
-    null,
-    null
-    ],
-    "electricity_consumption": 12845157,
-    "fossil_fuel_consumption": 80425776,
-    "gdp": 98385210,
-    "natural_gas_consumption": 27513198,
-    "state": "United States",
-    "total_energy": 98385210,
     "year": 2014
     }
     ]

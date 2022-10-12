@@ -71,19 +71,19 @@ def years():
     years_list = years.tolist()
     return jsonify(years_list)
 
-# @app.route("/map")
-# def MapRoute():
-#     ''' Loads the '''
+@app.route("/map")
+def MapRoute():
+    ''' Loads the '''
 
-#     webpage = render_template("map.html")
-#     return webpage
+    webpage = render_template("map.html")
+    return webpage
 
-# @app.route("/map1")
-# def MapRoute():
-#     ''' Loads the  '''
+@app.route("/map1")
+def MapRoute1():
+    ''' Loads the  '''
 
-#     webpage = render_template("map1.html")
-#     return webpage
+    webpage = render_template("map1.html")
+    return webpage
 
 
 @app.route("/readjsonfile/<filename>")
