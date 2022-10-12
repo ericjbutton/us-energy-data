@@ -5,7 +5,7 @@ const file_endpoint = "readjsonfile/data.json";
 // IMPORTANT: Now, choose which of these two endpoints to use! 
 let url = file_endpoint; 
 
-
+// console.log(url);
 
 // Create the map object
 let myMap = L.map("map", {
@@ -22,25 +22,41 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 function markerSize(totalenergy){
     return Math.sqrt(totalenergy) * 50;
 }
+// console.log(url[0].coordinates[0]);
 
-// Loop through the cities array, and create one marker for each city object.
-for (let i = 0; i < url.length; i++) {
-    L.circle(url[i].state, {
+d3.json(url).then(function(data){
+  for (let i = 0; i < data.length; i++) {
+    L.circle(data[i].coordinates, {
       fillOpacity: 0.75,
-      color: "white",
+      color: "red",
       fillColor: "purple",
       // Setting our circle's radius to equal the output of our markerSize() function:
       
-      radius: markerSize(url[i].total_energy)
-    }).bindPopup(`<h1>${url[i].year}</h1> <hr> <h3>Population: ${url[i].total_energy.toLocaleString()}</h3>`).addTo(myMap);
+      radius: markerSize(data[i].total_energy)
+    }).bindPopup(`<h1>${data[i].year}</h1> <hr> <h3>Total Energy: ${data[i].total_energy}</h3>`).addTo(myMap);
   }
+
+  console.log(data)
+})
+// Loop through the cities array, and create one marker for each city object.
+// for (let i = 0; i < url.length; i++) {
+//     L.circle(url[i].coordinates, {
+//       fillOpacity: 0.75,
+//       color: "white",
+//       fillColor: "purple",
+//       // Setting our circle's radius to equal the output of our markerSize() function:
+//       radius: 1
+//       // radius: markerSize(url[i].total_energy)
+//     }).addTo(myMap);
+//     // .bindPopup(`<h1>${url[i].year}</h1> <hr> <h3>Population: ${url[i].total_energy}</h3>`).addTo(myMap);
+//   }
+  
   
 
-
 // Get the GeoJSON data and plot it on the map
-d3.json(url).then(function(data) {
+// d3.json(url).then(function(data) {
 
     
-    L.geoJson(data).addTo(myMap);
-  });
+//     L.geoJson(data).addTo(myMap);
+//   });
 

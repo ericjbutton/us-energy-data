@@ -153,7 +153,7 @@ def data():
         data_dict["electricity_consumption"] = electricity_consumption
         data_dict["fossil_fuel_consumption"] = fossil_fuel_consumption
         data_dict["natural_gas_consumption"] = natural_gas_consumption
-        data_dict["coordinates"] = longitude, latitude
+        data_dict["coordinates"] = latitude, longitude
         all_data.append(data_dict)
 
 
