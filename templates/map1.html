@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-     <meta charset="UTF-8">
-        <!-- <title>NYC Boroughs</title> -->
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>GDP Dashboard</title>
 
      <!-- Leaflet CSS -->   
      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -16,7 +18,9 @@
 
      <!-- D3 library -->
      <script src="https://d3js.org/d3.v7.min.js"></script>
-
+   
+    <!-- leaflet-choropleth JavaScript -->
+    <script type="text/javascript" src="static/js/choropleth.js"></script>
        <!-- Our CSS -->
        <!-- for testing with live server , need to update file path-->
      <link rel="stylesheet" type="text/css" href="static/css/style.css">  
@@ -24,11 +28,17 @@
     </head>
     <body>
 
-        <!-- map div -->
-     <div id="map"></div>
+      <!-- The div where we'll insert our map -->
+      <div id="map"></div>
+  
+      <!-- Our JavaScript -->
+      <!-- <script type="text/javascript" src="static/js/logic-step1.js"></script> -->
+      <!-- <script type="text/javascript" src="static/js/logic-step3.js"></script> -->
+      <script type="text/javascript" src="/static/js/logic1.js"></script>
+  
+    </body>
+     <!-- <a href="/">Click here to return home!</a> -->
+<a href={{ url_for("IndexRoute") }}>Click here to return home!</a>
 
-       <!-- JavaScript file -->
-     <script type="text/javascript" src="static/js/logic.js"></script>
 
-     </body>
 </html>

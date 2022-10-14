@@ -30,7 +30,8 @@ Base.prepare(engine, reflect=True)
 energy_consumption = Base.classes.energy_consumption
 
 app = Flask(__name__)
-
+# This statement is required for Flask to do its job. 
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0 # Effectively disables page caching
 
 #  Flask Routes-define the various application routes.
 @app.route("/")
@@ -85,6 +86,12 @@ def MapRoute1():
     webpage = render_template("map1.html")
     return webpage
 
+@app.route("/map2")
+def MapRoute2():
+    ''' Loads the  '''
+
+    webpage = render_template("map2.html")
+    return webpage
 
 @app.route("/readjsonfile/<filename>")
 def ReadJsonFileRoute(filename):    
@@ -120,6 +127,7 @@ def home():
         f"/data<br/>"
         f"/map<br/>"
         f"/map1<br/>"
+        
     )
 
 @app.route("/data")

@@ -45,9 +45,9 @@
 <!-- ############################################ -->
     <div class="row">
       <div class="col-md-12 text-center">
-      <a class="btn btn-lg" href={{ url_for("energy1Route") }} role="button">Energy consumption</a>
-      <a class="btn btn-lg" href={{ url_for("energy2Route") }} role="button">Energy consumption by sectors</a>
-      <a class="btn btn-lg" href={{ url_for("MapRoute1") }} role="button">Total Enery by state</a>
+      <a class="btn btn-lg" href={{ url_for("MapRoute") }} role="button">Total Energy consumption</a>
+      <a class="btn btn-lg" href={{ url_for("MapRoute1") }} role="button">GDP</a>
+      <a class="btn btn-lg" href={{ url_for("MapRoute2") }} role="button">Total Enery by state</a>
       <a class="btn btn-lg" href={{ url_for("data") }} role="button">Data Table</a> 
       <hr>
       </div>
@@ -101,6 +101,7 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="/static/data/data.json"></script>
   <script src="/static/js/app.js"></script>
+  <script src="/static/js/logic.js"></script>
   <!-- <script src="plots.js"></script> -->
   
   
