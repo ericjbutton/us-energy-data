@@ -1,6 +1,6 @@
 console.log("hello");
 // Load the usJSON data.
-const file_endpoint = "readjsonfile/us.json"; 
+const file_endpoint = "readjsonfile/us2.json"; 
 // IMPORTANT: Now, choose which of these two endpoints to use!  
 let url = file_endpoint; 
 
@@ -25,7 +25,7 @@ d3.json(url).then(function(data) {
   geojson = L.choropleth(data, {
 
     // Define which property in the features to use.
-    valueProperty: "CENSUSAREA",
+    valueProperty: "GDP",
 
     // Set the color scale.
     scale: ["#ffffb2", "#b10026"],
@@ -45,7 +45,7 @@ d3.json(url).then(function(data) {
     // Binding a popup to each layer
     onEachFeature: function(feature, layer) {
       layer.bindPopup("<strong>" + feature.properties.NAME + "</strong><br /><br />GDP: " +
-        "$" + feature.properties.CENSUSAREA + "<br /><br />Energy Consumption: $" + feature.properties.CENSUSAREA);
+        "$" + feature.properties.GDP + "<br /><br />Energy Consumption: $" + feature.properties.GDP);
     }
   }).addTo(myMap);
 
