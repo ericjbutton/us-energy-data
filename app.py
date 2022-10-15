@@ -86,11 +86,11 @@ def MapRoute1():
     webpage = render_template("map1.html")
     return webpage
 
-@app.route("/map2")
-def MapRoute2():
+@app.route("/stacked")
+def StackedRoute():
     ''' Loads the  '''
 
-    webpage = render_template("map2.html")
+    webpage = render_template("stacked.html")
     return webpage
 
 @app.route("/readjsonfile/<filename>")
