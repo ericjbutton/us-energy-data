@@ -1,8 +1,9 @@
 // Please run the flask server.
 console.log("hello");
 
-let mydata = "/static/data/data.json"
-let mydata2 = "/static/data/data2.json"
+// Load the usJSON data.
+const mydata = "readjsonfile/data.json";
+const mydata2 = "readjsonfile/data2.json";
 console.log("hello2");
 
 function InitDashboard() { 
@@ -10,12 +11,11 @@ function InitDashboard() {
     d3.json(mydata).then((data) => {
         console.log("Here's the data:", data); 
         // unique year values
-        let uniquesampleYears = [...new Set(data.map(object => object.year))];
-        console.log("Here are the sample years:", uniquesampleYears); // 2010, 2011, 2012, 2013, 2014
+        let uniquesampleYears = [...new Set(data.map(object => object.year))];  // 2010, 2011, 2012, 2013, 2014
         // Populate the dropdown box
         for (let i = 0; i < uniquesampleYears.length; i++) {
             let years = uniquesampleYears[i]; 
-            console.log("Here are the sample IDs:", years);
+            console.log("Here are the sample years:", years);
             selector.append("option").text(years).property("value", years); 
         };      
 
@@ -30,19 +30,11 @@ function InitDashboard() {
         // Draw the bubblechart for the selected sample id
         piechart(initialId); 
 
-        // Show the metadata for the selected sample id 
+        // Show the GDPdata for the selected sample id 
         GDPdata(initialId); 
-
-        // Show the heatmap
-        // heatmap(initialId); 
 
     }); 
 }
-
-
-// ----filter----
-// function called Samples that does: each time I land on an element, calling that object, and each time it does i want to return the id of that sample equals my sampleId.
-// samples.filter looks at element by element by element down the array called samples. value gets appended into resultArray.
 
 function Bargraph(years)
 {
@@ -95,17 +87,7 @@ function Bargraph(years)
   // Display the piechart plot
 function piechart(years)  {
     console.log(`Piechart(${years})`); 
-    d3.json(mydata).then((data) => {
-        
-        // unique year values
-        let uniquesampleYears = [...new Set(data.map(object => object.year))];
-
-        // pie chart
-        for (let i = 0; i < uniquesampleYears.length; i++) {
-            let years = uniquesampleYears[i]; 
-            console.log("Here are the sample IDs:", years);
-        };      
-
+    d3.json(mydata).then((data) => {   
         let gdpdata = data.map(object => object);
         // filter
         function yearfilter(object) {return object.year == years}; // filter to return each object sorted by years from 2010-2014.
@@ -114,7 +96,7 @@ function piechart(years)  {
         let twentytenresult = gdpArray[0]; //gives me the first value in this array. 
         for (let i = 0; i < gdpArray.length; i++) {
             let gdp = gdpArray[i]; 
-            console.log("Here are the GDP of each state in 2010:", gdp);
+            console.log("Here are the GDP of each state in a given year:", gdp);
         };
         //states array to assign x-axis.
         let StateArray = yearArray.map(object => object.state);
@@ -179,7 +161,6 @@ function piechart(years)  {
 
 function GDPdata(years) {d3.json(mydata2).then((data) => {
         let gdpdata = data.map(object => object);
-        console.log("Here's the GDP data=", gdpdata);
         function yearfilter(object) {return object.year == years}; // filter to return each object sorted by years from 2010-2014 when you select from the drop box.
         let yearArray = gdpdata.filter(yearfilter); //and puts it into the array
         console.log("Here is my states result Array:", yearArray);

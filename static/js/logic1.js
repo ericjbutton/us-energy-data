@@ -17,6 +17,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 
+
 // Get the data with d3.
 d3.json(url).then(function(data) {
 
@@ -45,7 +46,7 @@ d3.json(url).then(function(data) {
     // Binding a popup to each layer
     onEachFeature: function(feature, layer) {
       layer.bindPopup("<strong>" + feature.properties.NAME + "</strong><br /><br />GDP: " +
-        "$" + feature.properties.GDP + "<br /><br />Energy Consumption: $" + feature.properties.GDP);
+        "$" + ((feature.properties.GDP) * 1).toLocaleString('en-US') + "<br /><br />The average GDP (in Billion USD): " + (feature.properties.GDP / 1000).toFixed(2));
     }
   }).addTo(myMap);
 
@@ -58,7 +59,7 @@ d3.json(url).then(function(data) {
     let labels = [];
 
     // Add the minimum and maximum.
-    let legendInfo = "<h1>Census Area<br /></h1>" +
+    let legendInfo = "<h1>The average GDP throughout 2014 year (in million USD)<br /></h1>" +
       "<div class=\"labels\">" +
         "<div class=\"min\">" + limits[0] + "</div>" +
         "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +
