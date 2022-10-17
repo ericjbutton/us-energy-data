@@ -1,47 +1,40 @@
 # us-energy-data
-## Proposal
+# Overview
 
 - Group Number 4
 - Group Members: Akhil Bandi, Eric Button, Adrian Wood, Sung Ahn
 - Topic: Visualization of average state’s contribution to U.S. GDP and Energy consumption
-- Data Source: https://www.kaggle.com/datasets/lislejoem/us_energy_census_gdp_10-14?resource=download 
-- Size of Dataset: 75.53 KB
-- Objective/Overview: The purpose of this project is to build an interactive web application by deploying visualization tools with front-end programs including HTML, CSS, and Bootstrap hosted in Github with an index page powered by JavaScript where database and flask server is built and developed behind the scenes. 
-## Brief Overview of our plan to approach the project:
-1.	Source and identify the dataset
-2.	Create a jupyter notebook
-3.	Save dataset as CSV file.
-4.	Using Pandas, load CSVs into a dataframe, clean and transform the raw data
-5.	Load and store the data into a SQL database.
-6.	Create tables in the schema.
-7.	Create website.
-8.	Create flask server.
-    - Create index route
-    - Create data route
-    - Create connection to database
-    - Style.js
-- Dashboard/landing page showing the overview of the project and menu buttons in a navigation bar. 
-    - A heat map of USA heat sensitivity relative to GDP size/share.
-    - Have the message box popup with GDP info. when you click on the shaded region of the map dedicated for each state. 
-    - Dropdown with year options (2010-2014) and info. When you click 2010, heat map of 2010 GDP will show.
-    - Vertical bar chart and pie chart corresponding to each state.
-    - Vertical bar shows the y-axis numbers when you have the mouse pointer on the chart.
-    - Energy consumption map. 
-    - Add bubbles size relative to the energy consumption size in a map size relative to the energy consumption size in a map.
-    - Show energy sector breakdowns of the Energy production in a pie chart when you select the state.
-    - Interactive U.S. map where you can show each state’s energy consumptions broken down and showing different energy sectors. Perhaps have a drop box so you can select the energy sector options and show the results both on the map and line chart.
+- Data Sources: 
+    1. https://www.kaggle.com/datasets/lislejoem/us_energy_census_gdp_10-14?resource=download - utilized in ETL process
+    1. https://inkplant.com/code/state-latitudes-longitudes - utlized in ETL process
+    1. https://eric.clst.org/tech/usgeojson/ - not utilized in ETL process, but exists on flask server
+- Objective: The purpose of this project is to build an interactive web application by deploying visualization tools with front-end programs including HTML, CSS, and Bootstrap hosted in Github with an index page powered by JavaScript where database and flask server is built and developed behind the scenes. 
+# ETL Process:
+The code for the ETL process can be found in: `Project 3.ipynb`
+## Extract
+- The main data source for our dashboard comes from: https://www.kaggle.com/datasets/lislejoem/us_energy_census_gdp_10-14?resource=download
+    - This raw data is saved under `resources/energy_census_and_economic_data_US_2010-2014.csv`
+    - This data source contains all information related GDP and energy consumption by state spanning across state for the years 2010 to 2014. This data source will be referred to as Energy Data moving forward.
+- Additionally, we web scraped a data table from: 
+https://inkplant.com/code/state-latitudes-longitudes 
+    - This data source contains centralized coordinates for each US state. This data will be referred to as State Coordinates Data moving forward.
+## Transform
+- We began by reading Energy Data into a dataframe titled energy_df. This data contained 50 rows with a primary key for each state, with 192 columns related to gdp and energy consumption by year.
+- We elected to transform this data to be organized with year and state as primary keys, and columns corresponding to total energy, gdp, biomass consumption, coal consumption, electricity consumption, fossil fuel consumption, and natural gas consumption for a total of 260 rows and 9 columns. This was done through iterating across the columns for the corresponding metrics for each year of the dataset and appending to a cleaned data frame.
+- We then scraped the State Coordinates Data into a data frame titled state_coordinates_df. We did little to manipulate this data after scraping, aside from renaming the state column to match the corresponding state column in our cleaned energy dataframe. 
+- Finally we performed an inner merge of our state coordinates dataframe to our cleaned energy data frame to include latitude and longitude coordinates for each state in what we call our final_df.
 
-# Sample US GDP Page
+## Load
+- We created a database named energy_db in PostgresSQL and loaded the final_df dataframe as energy_consumption table into PostgresSQL using the below SQL query. This table uses both year and state columns as primary keys. The SQL query for this table can be found in `us-energy-data/Create_table.sql`
 
-![](Images/GDP.png)
+# Code Directory
+- Website HTML Files: `us-energy-data/templates/`
+- Javascript Files: `us-energy-data/static/js/`
+- CSS File: `us-energy-data/static/css/`
+- Data that lives outside of Postgres on Flask Server: `us-energy-data/static/data/`
 
-# Sample Energy Consumption in Trillion BTU
 
-![](Images/energyconsumption.png)
 
-# Sample Energy Consumption By Sector
-
-![](Images/bysector.png)
 
 
 
