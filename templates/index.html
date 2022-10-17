@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>United States GDP per capita Dashboard Dashboard</title>
+  <title>United States GDP and Energy Consumption Dashboard</title>
  
      <!-- Our CSS -->
      <!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center" style = "background-image: url(https://media3.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif?cid=790b7611242a0682fe5d949ac78b45e3c1f8677291a9b51d&rid=giphy.gif&ct=g); background-size: 100%;">
-          <h1 style= "color: #f6f6f6;">United States GDP per Capita Dashboard</h1>
+          <h1 style= "color: #f6f6f6;">United States GDP and Energy Consumption Dashboard</h1>
           <!-- <p style= "color: #f6f3f3;">Use the interactive map below to explore the dataset</p> -->
       </div>
     </div>
@@ -68,17 +68,17 @@
           <div class="panel-heading">
             <h3 class="panel-title"> Info</h3>
           </div>
-          <div id="sample-gdpdata" class="panel-body"><!--empty div --></div>
+          <div id="sample-gdpdata" class="panel-body"></div>
         </div>
       </div>
 
 <!-- bar id -->
       <div class="col-md-5">
-        <div id="bar"><!--empty div --></div>
+        <div id="bar"></div>
       </div>
 <!-- pie id -->
       <div class="col-md-5">
-        <div id="pie"><!--empty div --></div>
+        <div id="pie"></div>
       </div>
     </div>
 
@@ -88,7 +88,6 @@
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="/static/data/data.json"></script>
   <script src="/static/js/app.js"></script>
   <script src="/static/js/logic.js"></script>
   <!-- <script src="plots.js"></script> -->
