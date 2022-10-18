@@ -33,6 +33,22 @@ https://inkplant.com/code/state-latitudes-longitudes
 - CSS File: `us-energy-data/static/css/`
 - Data that lives outside of Postgres on Flask Server: `us-energy-data/static/data/`
 
+# Instructions
+Please clone this repository to your desktop and then do the following:
+1. Open pgAdmin.
+1. Create a Database named ``energy_db``.
+1. Open a query tool on this database.
+1. Navigate to the desktop folder for the repository you just created and open the folder.
+1. Drag the file titled ``Create_table.sql`` into the query tool and run the query.
+1. Navigate to the desktop folder for this repository and launch a GitBash (Windows) or Terminal (Mac).
+1. Type ``source activate PythonData38`` and then hit ``ENTER``.
+1. Type ``jupyter notebook`` and then hit ``ENTER``.
+1. Navigate to ``Project 3.ipynb`` to view and run code line by line.
+1. Navigate back to pgAdmin. Run the select statements to confirm table is loaded:
+    - ``select * from energy_consumption``
+1. Navigate back to GitBash or Terminal and type ``python app.py``
+1. Open Web Browser and run on respective port.
+
 
 
 
