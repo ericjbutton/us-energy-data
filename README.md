@@ -38,12 +38,12 @@ Please clone this repository to your desktop and then do the following:
 1. Open pgAdmin.
 1. Create a Database named ``energy_db``.
 1. Open a query tool on this database.
-1. Navigate to the desktop folder for the repository you just created and open the folder.
-1. Drag the file titled ``Create_table.sql`` into the query tool and run the query.
+1. Select the Database and from the tree control, select the Schemas.
+1. Under the Tables node, open the query tool and select the ``Create_table.sql`` to run the query.
 1. Navigate to the desktop folder for this repository and launch a GitBash (Windows) or Terminal (Mac).
-1. Type ``source activate PythonData38`` and then hit ``ENTER``.
-1. Type ``jupyter notebook`` and then hit ``ENTER``.
-1. Navigate to ``Project 3.ipynb`` to view and run code line by line.
+1. Open the designated environment that holds the installed Python packages by typing such as ``source activate PythonData38`` and then hit ``ENTER``.
+1. Type ``jupyter notebook`` and then hit ``ENTER`` to open a Jupyter notebook.
+1. Navigate to ``Project 3.ipynb`` to view and run clear output before running the codes line by line.
 1. Navigate back to pgAdmin. Run the select statements to confirm table is loaded:
     - ``select * from energy_consumption``
 1. Navigate back to GitBash or Terminal and type ``python app.py``
