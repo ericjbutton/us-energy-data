@@ -46,8 +46,8 @@ Please clone this repository to your desktop and then do the following:
 1. Navigate to ``Project 3.ipynb`` to view and run clear output before running the codes line by line.
 1. Navigate back to pgAdmin. Run the select statements to confirm table is loaded:
     - ``select * from energy_consumption``
-1. Navigate back to GitBash or Terminal and type ``python app.py``
-1. Open Web Browser and run on respective port.
+1. Navigate back to GitBash or Terminal and type ``python app.py`` to run a Flask Server.
+1. Open Web Browser: http://127.0.0.1:5000/ and run on respective port.
 
 
 
